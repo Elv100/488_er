@@ -1,0 +1,26 @@
+Background:
+The plaintiff, the beneficiary, sought to recover death benefits under an insurance policy issued by the defendant insurer after the insured, Q. V. Miller, was injured in an automobile collision and died almost three months later. Trial court entered judgment for the beneficiary, and the insurer appealed. The dispute centered on whether there was sufficient evidence to support the medical cause of death as accidental and linked to the injury from the car accident. Key facts and testimonies include:
+
+1. Q. V. Miller sustained injuries from a car collision on May 25, 1954, and died on August 17, 1954, within the specified 90-day coverage period outlined in the insurance policy for loss of life due to accidental injury.
+2. The beneficiary of the policy is Q. V. Miller's surviving wife.
+3. Medical evidence was largely based on the testimony of Drs. Kelly and Chandler, who treated Miller post-accident.
+4. Lay witness testimonies corroborated the occurrence and immediate effects of the car accident on Miller.
+5. The jury trial resulted in a verdict in favor of the beneficiary, awarding $1,000, penalty, attorney’s fee, and interest.
+6. The insurer's appeal contested the causal connection between the accidental injury and the death, the qualification and testimony of Dr. Chandler, jury instructions, and the granting of penalty and attorney fees.
+7. Dr. Kelly diagnosed Q. V. Miller with a cerebral concussion and signs of brain damage due to the accident.
+8. Dr. Chandler, who oversaw Miller's care post-transfer from Austin to Ballinger, attributed Miller's death to a cerebral hemorrhage resulting from the concussion.
+9. The insurer argued there was insufficient evidence to show a reasonable probability that the accident caused Miller's death and contested the jury's evaluation of proximate cause.
+10. The trial court was also questioned for awarding the beneficiary penalty and attorney fees, suggesting a lack of demand for payment under the policy and the statutory waiting period before filing suit had not expired.
+
+Verdict:
+The verdict of the trial court was affirmed, with the appellate court holding that:
+
+1. The issue of the cause of death was appropriately submitted to the jury based on the expert medical testimonies of Drs. Kelly and Chandler, who provided a qualified opinion on the connection between the accidental injury and Miller's subsequent death.
+2. The jury was correctly entitled to consider the cause of death based on the evidentiary standard of showing a reasonable probability, not certainty, that the accidental injury resulted in Miller's death.
+3. The trial court did not err in awarding a penalty and attorney fees per Tex. Rev. Civ. Stat. art. 3.62 because the insurer had acknowledged a claim presented, asserted a denial of liability, and the statutory period for waiting post-demand had lapsed prior to suit being filed, validating the beneficiary's entitlement to these awards.
+4. The court found no reversible error in the exclusion of the insurer's Exhibit 2, nor in Dr. Chandler's testimony, as his statements were understood to convey his opinion rather than a conclusory assertion lacking probative value.
+5. No error was raised by the insurer's motion for mistrial based on a lay witness's statement as it did not affect the outcome given the context of the statement and the overall evidence.
+6. The trial court accurately instructed the jury on proximate cause, and the appeals court found the charge to the jury did not omit controlling issues as it contained appropriate definitions and submissions.
+7. The jury was entrusted with the task of determining a reasonable attorney's fee, consistent with the evidence and limitations outlined in Art. 3.62.
+
+Consequently, the appellate court overruled the insurer's motion for rehearing and affirmed the trial court's judgment in favor of the beneficiary, including the award for penalty, attorney’s fee, and interest.

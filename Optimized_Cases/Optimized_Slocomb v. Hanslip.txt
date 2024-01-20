@@ -1,0 +1,23 @@
+Background:
+The plaintiffs, Corine Slocomb and Hazel Jean Billups, both licensed vocational nurses (LVNs) with extensive experience in patient care, were hired by the defendants to provide in-home care for Ms. Hanslip, an elderly woman with Parkinson's disease. This disease is characterized by unpredictable shaking and muscle weakness. Both plaintiffs were well aware of Ms. Hanslip's condition and were trained in transferring patients like her from a bed to a wheelchair, a task considered routine for LVNs. They had also taken additional training courses, including senior citizen care, and have cared for Parkinson's patients and "difficult" patients in the past.
+
+The plaintiffs did not carry workers' compensation insurance. Their duties included various care activities, such as assisting Ms. Hanslip with walking and transfers between her bed and wheelchair. Plaintiffs had performed these duties without issue for some time before the incident.
+
+On the incident day, while transferring Ms. Hanslip from her bed to her wheelchair, she resisted their efforts and did not follow instructions, which led her to suddenly stiffen and fall to the floor, resulting in injuries to both plaintiffs. Billups suffered a central disk herniation and bulging disk; Slocomb injured her knee, both requiring surgery.
+
+The plaintiffs sued the defendants for negligence, asserting a nondelegable duty to provide proper equipment, sufficient staffing, and a safe workplace. Defendants filed for summary judgment, citing the plaintiffs' inability to prove negligence due to the routine nature of the task during which the injuries occurred, the lack of previous complaints or requests for additional equipment or staffing, and the lack of foreseeability of the injuries.
+
+The defendants' summary judgment included excerpts from plaintiffs' deposition testimony. Plaintiffs argued that they did provide evidence of foreseeable injury and that material facts were still in question. However, the trial court granted the defendants' motion for summary judgment without specifying the grounds for its decision. Plaintiffs appealed, claiming the trial court erred in granting summary judgment, misapplied standards, and overlooked genuine issues of material fact.
+
+Verdict:
+In determining the verdict, the appellate court will consider if the defendants were negligent by analyzing three elements: duty, breach of duty, and damages caused by the breach. The plaintiffs will need to prove negligence since defendants do not carry workers' compensation insurance.
+
+Given that Ms. Hanslip has Parkinson's disease and plaintiffs were both experienced and trained, including how to prevent falls, the lifting and transferring of Ms. Hanslip did not pose an increased threat of injury and was within their usual scope of work. Furthermore, plaintiffs knew about Ms. Hanslip's condition, which includes unpredictable shaking and muscle control loss, and had transferred her without incident several times prior to the day in question.
+
+In relation to the claim that the defendants did not provide proper equipment, it will be noted that the plaintiffs, being trained professionals, never requested any such equipment to aid in their duties, indicating that they thought the provided setup was adequate for their work.
+
+As for the claim of insufficient staffing, once when Billups faced difficulty with a transfer and requested help, the defendants responded by hiring two nurses, but no subsequent requests for additional staff were made, which will be interpreted as satisfaction with the staff levels.
+
+Even with plaintiffs' age and in comparison to similar cases, the task they were performing was not unusual or hazardous by nature if performed by trained LVNs according to standard procedures.
+
+Therefore, given the consistent precedent that employers are not liable for negligence when employees are performing routine tasks that do not pose an unusual or increased risk of injury, and considering the plaintiffs were carrying out their usual work at the time of the incident, the appellate court will most likely affirm the trial court's decision granting summary judgment in favor of the defendants. The predictability of the occurrence due to Ms. Hanslip’s known condition and the lack of previous similar events will be seen as insufficient evidence of negligence on the part of the defendants.

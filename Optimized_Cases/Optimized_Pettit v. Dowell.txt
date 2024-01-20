@@ -1,0 +1,23 @@
+Background:
+The appellant in this case is a physician, Dr. James C. Pettit, who was seeking review of a judgment from the 170th District Court, McLennan County, Texas, which awarded damages in a medical malpractice case. The appellees are the parents of a deceased patient, Carolyn and Jimmy Dowell, who brought claims under the Texas Wrongful Death Act, the Survival Statute, and the federal anti-dumping statute following the suicide of their son, Lance Dowell.
+
+Lance Dowell, a 21-year-old man, was taken to Providence Health Center in Waco, Texas, by sheriff’s deputies after he had inflicted wounds on himself and expressed suicidal thoughts. At the emergency room, Dr. Pettit requested a psychological assessment and, along with a psychological evaluator, concluded that Lance was not actively suicidal. He was subsequently discharged and spent time with family and friends before hanging himself the following evening.
+
+A jury found the defendants, including Dr. Pettit, negligent, attributing 20% of the negligence to Dr. Pettit and 80% split equally between Providence and DePaul. The jury awarded damage totaling $700,000, which included compensation for past and future mental anguish and loss of society for the parents, as well as pain, mental anguish, and funeral expenses for Lance. Dr. Pettit appealed, contesting the sufficiency of evidence for the breach of the standard of care, the awards for damages, the standing of the parents to recover damages, the inclusion of Lance's son as a beneficiary, the causation, and the proportionality of survival damages, among other things.
+
+Verdict:
+When predicting the outcome, it is expected that the appellate court will affirm the judgment of the lower court. The court will likely find that expert testimony provided by Dr. Thomas Donica, a teacher and practitioner of psychiatry, is reliable and establishes a connection between Dr. Pettit's actions and Lance's suicide. Despite Dr. Pettit's objections, expert testimony that is well-grounded in scientific methods and procedures is considered evidence.
+
+The court will reject Dr. Pettit's view that the evidence of pain and mental anguish awarded under the Survival Statute is unsupported. The presence of a death certificate indicating asphyxia by hanging contributes to proving Lance experienced pain and mental anguish before his death.
+
+Challenges to the standing of Lance's parents to recover survival damages are foreseen to be overruled. Carolyn Dowell was appointed as administratrix to act on behalf of Lance's estate, and this appointment is related back to the original petition date; hence, statute of limitations concerns and standing to sue are not problematic here.
+
+Dr. Pettit's concern over the wrongful death action not being prosecuted on behalf of Lance's son, Alec, is anticipated to be dismissed. The wrongful death action was brought timely by the parents, and as Alec did not file a suit within three months or object to the filings, there is no compelling reason to abate the suit on this basis.
+
+The court is not expected to agree with Dr. Pettit's assertion that the evidence of causation is factually insufficient. Given normal jury discretion in weighing evidence and the expert testimony provided, it is likely that the court will find the evidence supports the jury's determination.
+
+Regarding attribution of negligence to Lance for his suicide, the court will probably dismiss the argument based on the Civil Practice and Remedies Code precluding suicide as a defense in situations where failure to meet a standard of care is a partial cause. It would be unnecessary to submit such questions to the jury since Dr. Pettit's liability was separately established.
+
+Finally, the argument that the survival action damages for pain and mental anguish are excessive is expected to be rejected. The court commonly defers to the jury's discretion unless evidence clearly suggests passion or prejudice, which is not believed to be the case herein.
+
+With all issues raised by Dr. Pettit anticipated to be overruled, the original judgment in favor of the parents, Carolyn and Jimmy Dowell, is likely to be affirmed by the appellate court.

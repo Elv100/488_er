@@ -1,0 +1,19 @@
+Background:
+This case involves appellants, consisting of a widow and her children, who sought to recover damages for the death of their family member, Allen Bragg. They alleged that his death was caused by the negligence of the agents and employees of the appellee employer, during the operation of a truck on a public highway near Houston, Texas. 
+
+The incident that led to the lawsuit occurred when employees of the appellee were driving a truck to Houston after recovering another truck owned by the appellee that had been disabled near Wortham, Texas. On their way back, the employees came across a Ford car in a ditch by the highway. After assisting the car and unfastening the chain from their truck, an automobile, in which the deceased and another individual were riding, crashed into the rear of the disabled truck without lights on at the time of the collision, leading to a fatal explosion and fire. 
+
+The issue of whether the employees were acting in the scope of their employment when they stopped to assist the Ford car was central to the case. During the course of the trial, additional issues such as the intoxication and speed of the driver of the automobile in which Allen Bragg was a passenger, as well as the alleged improper questioning by the attorney for the defendant concerning the personal histories of the plaintiffs' witnesses, were raised. 
+
+In response to special issues from the trial court, the jury found that the driver of the automobile failed to keep a proper lookout and was driving at an excessive speed, both determined as proximate causes of the collision, but also found that the driver was not driving negligently just prior to the collision. Appellants appealed the original verdict in favor of the defendant, questioning the alleged conflicting jury findings and the admittance of certain evidences.
+
+Verdict:
+The court will affirm the decision of the trial court, ruling in favor of the employer. The key findings of the jury that the driver of the automobile in which the deceased was a passenger was negligent in keeping a lookout and was driving at an excessive speed will be seen as specific findings that control over the general finding that the automobile was not being driven negligently just prior to the collision. This perspective aligns with precedent cases where specific findings are given more weight when reconciling a verdict with seemingly conflicting results.
+
+The court will consider the improper questioning by the defense attorney as harmless because the record will show that the objections were sustained and the witnesses for the plaintiffs did not testify concerning the manner of the accident. As such, it will be deemed that the improper questioning did not unduly influence the jury's findings, particularly in relation to the driver's outlook and speed at the time of the collision.
+
+Furthermore, the testimony concerning the driver's prior acts of fast driving or drinking will not be seen as materially affecting the outcome because the jury's findings on these issues were in favor of the appellants; hence any error in admitting this evidence will be regarded as non-prejudicial.
+
+Ultimately, the verdict will be based on the determination that at the time of the collision, the employees were engaged in an act outside the scope of their employment—assisting a third party—which will reflect a deviation from serving the employer's interests. The court will reference established legal principles in this area, indicating that a servant stepping aside from the master's business for some unrelated purpose temporarily suspends the employment relationship, absolving the master of liability for the servant's acts during such time.
+
+Due to this deviation from the master's business by the employees in assisting the Ford car, the appellee employer will not be held liable for the negligence of its employees, and the judgment in favor of the appellee will be upheld.

@@ -1,0 +1,23 @@
+Background:
+The appellants, Jodell and Thomas Stansel, appealed a "take-nothing" verdict from the jury in favor of the appellee, Dr. Bahjat Rahman, regarding an allegedly unnecessary hysterectomy procedure. The Stansels accused Dr. Rahman of negligence, medical malpractice, fraud, and lack of informed consent.
+
+Ms. Stansel initially consulted Dr. Rahman for symptoms including abdominal cramping and dysmenorrhea, and a previous diagnosis of pelvic inflammatory disease (PID), and had been advised by another physician to consider hysterectomy. Dr. Rahman recommended diagnostic procedures with the possibility of laparotomy and suggested preparing for a hysterectomy, to be decided during surgery while Ms. Stansel was under anesthesia.
+
+Before the operation at Sam Houston Memorial Hospital, Dr. Rahman ordered that consent forms be signed for various procedures, but the section for abdominal hysterectomy was omitted due to an incomplete form. Nonetheless, Dr. Rahman maintained that he discussed the risks of hysterectomy with Ms. Stansel, as evidenced in his admission note.
+
+During surgery, Dr. Rahman performed a total abdominal hysterectomy and removed the fallopian tubes based on findings consistent with chronic PID. He also removed the appendix, which was covered in lesions, though this was not discussed with Ms. Stansel nor consented to.
+
+Post-surgery, Ms. Stansel experienced severe pelvic pain, and despite consulting with about 35 physicians, no medical reason connecting the pain to Dr. Rahman's surgery was established.
+
+At the trial, the court used broad-form questions for the jury, which returned unanimous "No" verdicts regarding allegations of medical negligence, fraud, and lack of informed consent by Dr. Rahman.
+
+Verdict:
+In predicting the rationale for the court's affirmation of the jury's verdict, the trial court's use of broad-form questions, as opposed to appellants' proposed granulated issues, will likely be considered proper and in accordance with Rule 277 and applicable case law, which mandate the use of broad-form questions where feasible, barring extraordinary circumstances.
+
+The court will likely find that the appellants' claims, including misrepresentation of medical condition and alleged informed consent failures, are encompassed by negligence and malpractice under the Texas Medical Liability and Insurance Improvement Act (MLIIA). MLIIA defines all liability theories in the healthcare realm as negligence-based on meeting accepted medical standards, thus merger of misrepresentation into the broad-form negligence question is correct.
+
+Without admissible expert testimony showing that specific undisclosed risks from the procedures caused harm to Ms. Stansel, the claims of informed consent violations for procedures other than hysterectomy will fail. Only claims of unauthorized additional procedures, in which expert testimony supports a connection between undisclosed risks and the patient's injuries, should be submitted for jury consideration.
+
+The court will likely conclude that Dr. Rahman's rebuttal to the presumption of negligence in the informed consent issue was effective since he provided evidence, including testimonies and medical records, showing the discussion of risks with Ms. Stansel despite the incomplete consent form.
+
+Overall, for the legal and factual sufficiency challenges to succeed, the appellants must show that there is no evidence supporting the jury's findings or that the jury's decision was against the great weight of the evidence. Based on the evidence presented, including the testimony of medical experts and records corroborating Dr. Rahman's version of events, the court will determine the jury's verdict to be reasonable. Therefore, the trial court's ruling will be affirmed as there was no abuse of discretion, and judgments made align with established legal principles and evidence.

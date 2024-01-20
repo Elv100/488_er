@@ -1,0 +1,21 @@
+Background:
+The case involves a dispute over a workers' compensation claim following the death of Lawrence Schrieber, an employee of Joe Weaver & Son. Schrieber died after falling from a scaffold and hitting his head while working at a shipbuilding and repairing business in Orange, Texas. His widow, Martha Schrieber, and their two minor children, Willie Mack Schrieber and Lawrence Schrieber Jr., filed a claim with the Industrial Accident Board of Texas for compensation. The Board denied the claim, leading the family to sue to set aside the Board's decision and recover compensation under the Workmen's Compensation Act.
+
+The insurer, Millers' Indemnity Underwriters (appellant), denied liability under the policy, contending that Schrieber's death wasn't due to the fall but was caused by cerebrospinal syphilis, a disease they claimed was the sole cause of his death. The insurer basis its argument on testimony from several physicians who treated Schrieber, stating that his death was a result of the progression of syphilis to its terminal stage, rather than the injury from the fall.
+
+The case was tried with a jury in the District Court, which issued a verdict in favor of the widow and children (appellees), awarding a total of $4,536 in compensation, to be divided equally among them. The insurer appealed the decision, contesting the verdict on the grounds that it was unsupported by evidence, that answers to special issues by the jury were inconsistent, that parts of the trial court's charge were improper, the verdict was excessive, and the compensation was not properly apportioned between the widow and children.
+
+The evidence presented in favor of the Schrieber family included testimony about Lawrence Schrieber's robust health prior to the incident, the lack of visible symptoms of advanced syphilis, and expert opinions from physicians that the fall, rather than syphilis, caused his death. There were also questions about whether syphilis even existed in Schrieber at the time of his fall, while the family provided counter evidence that suggested the injuries from his fall were indeed severe and ultimately led to his death.
+
+Verdict:
+Given the detailed presentation of the evidence and careful consideration, the court is expected to hold that the insurer's contention that Schrieber's death was conclusively caused by syphilis is not persuasive. The court will likely find that there was sufficient evidence to support the jury's finding that the death was a result of the fall from the scaffold.
+
+Furthermore, the court will address the insurer's argument about inconsistencies in the jury's answers by acknowledging that while certain responses appear conflicting, they are not materially so, as to invalidate the judgment. The answers, viewed as a whole, still sustain the claim for compensation, as they support the central fact that Schrieber was injured in the fall, and the fall contributed to his death.
+
+The insurer's claim that the court's instructions were a charge upon the weight of evidence will likely be overruled by considering that the instructions, when viewed in the context of the specific issues presented to the jury, did not probably cause an improper verdict.
+
+Despite the verdict being found as excessive due to miscalculation of compensation, the court sees no indication of improper motive by the jury, and instead of reversing the judgment, the court will reform the award to the correct sum dictated by evidence.
+
+Lastly, the court will address the incorrect apportionment of compensation between the widow and children, agreeing with the appellant that the law of descent and distribution was not followed. The court will therefore reform the judgment to allocate the compensation as is legally required, with half going to the widow and one-quarter to each child, acknowledging precedent such as the Texas Employers' Insurance Association v. Boudreaux case.
+
+After considering all of these factors and overruling other points raised by the appellant, the court will reform the judgment in favor of the widow and children to the corrected amounts and ratios, affirming it as so reformed. Costs of the appeal will be adjudged against the appellees.

@@ -1,0 +1,19 @@
+Background:
+Debbie Kay Crocker, aged 44, suffered a subarachnoid hemorrhage and was admitted to the Rembrandt Center, a nursing home, in a semi-comatose state. Crocker was later hospitalized for pneumonia and respiratory distress. She was subsequently discharged from the hospital and transferred to another nursing facility. Nine months after being discharged from the Rembrandt Center, Crocker died on January 18, 1998.
+
+The appellants, Crocker's family (Johnny R. Crocker individually and as representative of the Estate of Debbie Kay Crocker, Robby Joe Crocker, Billy Jack Crocker, and Billie Smith) sued the Rembrandt Center for negligence and gross negligence in the Probate Court No. 3, Dallas County (Texas). They claimed the center did not provide adequate nursing care as they failed to give her adequate oxygen and monitor her blood sugar, leading to severe respiratory distress, hyperglycemia, and consequently her death. The Rembrandt Center filed a no-evidence motion for summary judgment, asserting that the Crocker family had no evidence to prove that any act or omission of the defendant caused any injury to Debbie Kay Crocker.
+
+In response to the no-evidence summary judgment motion, the appellants provided evidence of various acts of negligence, including declarations from nurses and Crocker's medical records. They faced challenges regarding the qualification of their expert witnesses (nurses) to testify on the proximate cause of Crocker's death. The trial court granted the Rembrandt Center's motion for summary judgment, which led to the Crocker family appealing, stating that the summary judgment in favor of the Rembrandt Center was incorrect.
+
+Verdict:
+The appellate court upheld the judgment of the trial court, affirming the summary judgment in favor of the Rembrandt Center. The court will determine that the appellants did not raise a genuine issue of material fact on the challenged proximate cause element of their negligence claim. The reasoning for this decision will focus on:
+
+1. Whether the Rembrandt Center's no-evidence motion for summary judgment was legally sufficient. The court will find that the motion sufficiently challenged the proximate cause element of the appellants' action, and that any lack of specificity did not warrant an objection from the appellants, hence not affecting the motion's legal sufficiency.
+
+2. The challenge to the proximate cause evidence presented by the appellants, where the trial court will be found to have not abused its discretion in sustaining objections to it. The appellate court will rule that the appellants indeed needed to provide expert testimony to prove causation of the specific injuries alleged. 
+
+3. The court will find that the appellants failed to establish that their nurse experts were qualified to provide expert opinion testimony specifically on the proximate cause of Crocker's claimed injuries, which included respiratory distress, hyperglycemia, and death. Since the appellants were not able to demonstrate the qualifications necessary to establish a link between the Rembrandt Center's alleged negligence and the specific injuries claimed, their evidence will not be deemed sufficient to raise a fact question on proximate cause.
+
+4. Finally, the court will conclude that even without the stricken expert testimony, the appellants did not present more than a scintilla of probative evidence to raise a genuine issue of material fact regarding the proximate cause of Crocker's injuries. The non-expert evidence cited by the appellants, such as the TDHS records, will be found to not adequately establish the necessary causal link.
+
+Based on these findings, the appellate court will predictably affirm the trial court's judgment, thereby determining that the appellants did not meet their burden in opposing the Rembrandt Center's no-evidence motion for summary judgment.

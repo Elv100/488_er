@@ -1,0 +1,21 @@
+Background:
+The case involves the appellant, a railway company, which sought to overturn a judgment made by the District Court of Bell County, Texas. This original judgment was in favor of the appellee, a customer of the railway, who filed an action for damages against the company, citing that the company's ticket agent had communicated smallpox to him and subsequently to his wife.
+
+The customer had purchased two roundtrip tickets from the ticket agent, who, at the time, was suffering from smallpox. Consequently, the customer contracted the disease from the agent and later passed it on to his wife. The customer alleged that the railway company was responsible for the damages he and his wife sustained due to the wrongful act of its agent. The company, in its defense, proposed that there was an intervening cause, specifically the act of the customer himself passing the disease to his wife, which should absolve the company of direct responsibility for the wife's infection.
+
+The trial court ruled in the customer's favor, leading the railway company to appeal. The appeals court supported the original ruling, maintaining that the ticket agent's act was the proximate cause of both the customer's and his wife's contraction of smallpox. Furthermore, it was held that the company owed it to the public to protect them from being exposed to contagious diseases through its agents.
+
+The railway’s defense included the argument that the agent, named Bridges, being neither the principal station agent nor the responsible representative but merely a subordinate without control over employment decisions, did not have his knowledge of the disease imputed to the company. The appellee's representation, on the other hand, held that any damages directly resulting from the agent's wrongful act were the responsibility of the company.
+
+Verdict:
+The court will affirm the judgment in favor of the customer, reasoning that it was the duty of the railway company to prevent their agents, who interact with the public, from communicating contagious diseases to customers. It will predict that the court will hold that such agents, when acting within the scope of their authority and performing their duties, indeed represent the company. Therefore, their knowledge of their contagious condition is also attributable to the railway company itself.
+
+The court will likely explain that the proximate cause relates to whether an act is the natural and probable consequence of negligence or a wrongful act, which should have been foreseen by the perpetrator. In this case, the act of selling tickets to the customer while the agent was afflicted by smallpox was a wrongful act with foreseeable and natural consequences, especially given the personal and close contact inherent in the relationship between spouses.
+
+It will be predicted that the court will reject the appellant's contention that knowledge of the agent's smallpox should not be considered knowledge on the part of the company because the testimony supported the idea that the agent was authorized and actively engaged in his role at the time of the exposure.
+
+The court will likely affirm that since the circumstances made it natural and probable that the customer would contract smallpox from the agent and communicate it to his wife, the railway company is liable for the damages sustained as a direct and proximate result of the agent’s wrongful act. 
+
+To further support the decision, it is also probable that the court will reference the distinction between duties owed to the public that do not allow for individual action and duties intended for the individual members of the public which can lead to individual actions when breached. Cases such as the appellee's will fall into the latter category.
+
+In conclusion, the court will affirm the judgment of the lower court, agreeing that the appellant, through its agent, was liable for the damages endured by the customer resulting from the agent's actions within the scope of his employment, the precedent being established that companies must safeguard the public against communicable diseases carried by their agents.

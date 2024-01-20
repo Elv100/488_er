@@ -1,0 +1,29 @@
+Background:
+This appeal arises from a subsurface trespass case between Lightning Oil Company and Anadarko E&P Onshore LLC concerning the drilling of wells to access mineral estates. The material facts of the case are as follows:
+
+A. Cutlass Lease: A severed mineral estate exists under a portion of the Briscoe Ranch, where the ownership of oil, gas, and minerals on the land was retained by the previous owner through a reservation in a warranty deed, without expressly including any right to control subterranean structures.
+
+B. Lightning's Lease (2009, amended in 2013): Lightning obtained a lease on the Cutlass Lease mineral estate with rights to explore for and produce hydrocarbons, excluding helium, carbon dioxide, and other commercial gases.
+
+C. Anadarko's Lease and Agreement: Anadarko leased a mineral estate under the adjacent Chaparral Wildlife Management Area (CWMA) and entered into a Surface Use and Subsurface Easement Agreement with Briscoe Ranch. This permitted Anadarko to site drilling rigs on the ranch and drill through the earth beneath it to access wells in the CWMA.
+
+D. Lightning's Suit: Lightning brought a lawsuit against Anadarko to prevent it from siting wells and drilling through the Cutlass Lease area, asserting exclusive drilling rights within the lease boundaries.
+
+E. Anadarko's Actions and Arguments: Anadarko had begun siting wells and planned to drill vertically and then deviate the wellbores to reach its leasehold under the CWMA. Anadarko's argument was that it only required permission from Briscoe Ranch, as the surface estate owner, to site and drill, and that it could not trespass by drilling where Lightning's hydrocarbons may be.
+
+F. Procedural Posture: The legal proceedings involved summary judgment motions by both parties. Lightning sought an injunction to stop Anadarko's drilling, while Anadarko moved for traditional and no evidence summary judgment, claiming justification. Ultimately, the trial court granted Anadarko's motion without stating specific grounds, leading to this appeal by Lightning.
+
+Verdict:
+The court will affirm the trial court's judgment, based on a detailed analysis of the ownership rights associated with surface and mineral estates and the application of legal standards to the summary judgment motions. 
+
+The key conclusions that will inform the ruling are as follows:
+
+1. The surface estate owner (Briscoe Ranch) controls the earth matrix and has the authority to permit activities such as drilling that might penetrate these subsurface structures.
+
+2. The mineral estate owner's rights, as held by Lightning, include exploration and production of oil and gas but do not automatically grant control over the surrounding earth or subterranean structures.
+
+3. Since Anadarko secured Briscoe Ranch's permission to site and drill wells designed to reach the CWMA, it did not commit trespass on Lightning's leased mineral estate. Specifically, there was no evidence presented by Lightning to indicate a legal right to exclude others from drilling through the earth within the leased boundaries.
+
+4. Anadarko's justification for drilling operations is legally sound given the Surface Use and Subsurface Easement Agreement with Briscoe Ranch.
+
+Based on the lease terms, applicable law, and the agreement between Anadarko and Briscoe Ranch, the court will predict that Anadarko had the legal right to conduct the drilling activities disputed by Lightning. Furthermore, Lightning will not have succeeded in showing that Anadarko's actions caused compensable injury or tortious interference. The affirmative defense of justification, as asserted by Anadarko, will be deemed conclusively established, leading to the overall affirmation of the trial court's order in favor of Anadarko.

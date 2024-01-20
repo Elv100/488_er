@@ -1,0 +1,15 @@
+Background:
+Arthur B. Lee, an employee at Tyler Pipe Industries, Inc. from 1964 to 1972, filed a lawsuit after becoming unable to work in 1985 due to silicosis, a debilitating lung disease caused by inhaling airborne silica particles. The disease is recognized as work-related, and his exposure occurred during his employment at Tyler Pipe Industries, Inc. Lee's injuries were covered by workers' compensation insurance under the Texas Workers' Compensation Act.
+
+Lee filed suit against the manufacturer, Dresser Industries, Inc. (referred to as Dresser or appellant), on three legal theories of liability: strict liability, negligence, and breach of implied warranty. The case was tried solely on the strict liability claim. The jury found that Dresser's failure to warn about silica's dangers made the product unreasonably dangerous as marketed. The jury concluded this failure was a producing cause of Lee's silicosis, attributing 96% of the disease to Dresser's product and 4% to a product from the settling tortfeasor, Pennsylvania Glass-Sand Corporation.
+
+The trial court signed and entered a judgment favoring Lee, awarding substantial damages. Dresser appealed, raising five points of error, arguing the trial court erred by refusing to submit its requested definitions and negligence-related questions, excluding relevant testimony, and by not giving the sole cause instruction to the jury.
+
+Verdict:
+The appellate court affirmed the lower court's judgment in favor of Lee. The reasoning for the verdict included that Dresser's requested question about Lee's negligence was not in a legally acceptable form, and there was no provision for a limiting instruction to prevent the jury from considering Lee's negligence relating solely to his failure to discover or guard against the danger.
+
+Additionally, the court concluded that it was not legally permissible to consider the negligence of Lee's employer, Tyler Pipe, for the purpose of reducing Lee's recoverable damages in a suit against Dresser, a negligent third-party. This conclusion is in line with the principle established in Varela v. American Petrofina Co. which prevents the consideration of an employer's negligence in calculating damages in an employee's lawsuit against a negligent third-party.
+
+The court also found no error in the trial court's exclusion of evidence regarding Tyler Pipe's conduct or in the denial of the sole cause instruction, reiterating that such considerations are prohibited by Varela.
+
+Thus, the appellate court's judgment was based on the premise that the legal instructions and the limitations on permissible considerations regarding negligence were consistent with the precedents set by the Texas Supreme Court and statutory provisions. Consequently, Dresser's points of error were overruled, the strict liability judgment favoring Lee was affirmed, and all costs of the appeal were adjudged against Dresser.

@@ -1,0 +1,19 @@
+Background:
+- Appellant (live-in companion) initiated a medical malpractice lawsuit against appellee (physician), stemming from medical care provided to the decedent.
+- The case involved a claim that the physician's negligence led to the decedent's death.
+- The trial court awarded an instructed verdict in favor of the physician, effectively dismissing the case before it went to a jury.
+- Appellant lived with decedent from 1970 until her death in 1979 and supported her financially after she stopped working.
+- Appellant asserted a common law marriage with the decedent, which was essential for standing to bring the wrongful death claim.
+- Appellant claimed that they held themselves out as married to the public, with evidence including their cohabitation, public references to being married, insurance policy naming appellant as "husband," and appellant being recognized as the decedent's husband in the medical records and by hospital staff.
+- Medical expert Dr. Peter Rosen testified that the decedent's cardiac arrest, which led to her death, could have been prevented with timely and proper medical care. The decedent's rapidly declining condition should have been foreseeable to a competent physician.
+- The jury was not given an opportunity to assess damages due to the instructed verdict but would have had to consider loss of consortium, society, companionship, and mental anguish if the case had continued.
+- The case also included an allegation of gross negligence, with appellant's theory being that the decedent was refused care due to inability to pay, which would constitute conscious indifference to her welfare.
+
+Verdict:
+- The appellate court reversed and remanded the case for a new trial.
+- It held that the evidence presented was adequate to create a fact issue regarding the common law marriage between appellant and decedent, which needed to be decided by a jury.
+- The court determined that there was sufficient evidence to establish a fact issue on negligence and proximate cause linking the physician's actions to the decedent's death.
+- Dr. Rosen's expert testimony would allow a jury to reasonably find that the cardiac arrest could have been prevented, meeting the elements of cause in fact and foreseeability inherent in proximate cause.
+- As for damages, the court contended that based on appellant's account of their relationship and cohabitation, a jury could have found non-pecuniary damages for loss of companionship and mental anguish.
+- The court agreed that there was enough evidence of gross negligence due to the decedent being allegedly denied treatment because of payment issues, constituting conscious indifference.
+- In conclusion, the appellate court found that the case was prematurely concluded without considering all relevant evidence, and therefore a new trial was warranted to enable a jury to weigh the evidence and decide on the claims.

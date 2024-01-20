@@ -1,0 +1,22 @@
+Background:
+Appellee Dental Arts Laboratory, Inc. sued appellant Anna Roach and Stan Horton for negligent entrustment of a motor vehicle. The district court ruled in favor of the company, leading Roach to appeal the decision. The key points in the case include:
+- Roach had entrusted her car to Horton, who had a known addiction to crack cocaine, for repairs.
+- Roach and Horton's mother were aware of his addiction but believed he had it "under control."
+- Horton had previously been successful in repairing Roach's car without incident.
+- On June 22, 1998, Roach lent her car to Horton again for repair work and job hunting.
+- Horton did not return the car as promised, leading to Roach reporting it to the police.
+- The car was involved in an accident and abandoned; the driver at the time was never found.
+- Investigation suggested Horton may have loaned or sold the car for crack cocaine.
+- A police officer testified that while someone with knowledge of an addict's habits might foresee the possibility of the car being given away, Roach would not likely expect that outcome.
+- The officer, having experience with drug cases, believed Roach's decision to entrust the car to Horton, despite his progress, wasn't unreasonable under the circumstances.
+
+Verdict:
+The appellate court is expected to reverse the district court's judgment based on the reasoning that:
+- The proximate cause has two elements: cause-in-fact and foreseeability.
+- While Roach knew of Horton's addiction, there was no evidence suggesting she should have foreseen that he would exchange the car for cocaine.
+- The court would note that general knowledge of an addiction does not equal specific knowledge of behavior such as exchanging property for drugs.
+- Given Roach's prior experience loaning the car to Horton without issues, it would be unreasonable to expect her to predict the specific criminal act of exchanging the car for drugs.
+- The act of the third party (unidentified driver involved in the accident) constituted a superseding cause, which was unforeseeable by Roach.
+- The lack of foreseeability in the exchange of the car makes any negligence on Roach's part not the proximate cause of the company's loss.
+  
+Thus, the appellate court's decision would focus on the lack of foreseeability of the specific criminal act and deem it a superseding cause outside of Roach's control, resulting in a judgment that Dental Arts Laboratory, Inc. take nothing from Roach on its claim.

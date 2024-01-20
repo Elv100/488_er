@@ -1,0 +1,15 @@
+{Background: 
+The case concerns a medical malpractice lawsuit filed by the appellee (patient) against the appellant (physician). The patient claimed that in January 1923, due to a runaway accident, they sustained severe injuries, including a bruised and dislocated arm, a bruised and broken collar bone, and a broken jawbone. The patient alleged intense bodily pain and hired the appellant physician to diagnose and treat these injuries. However, the patient accused the physician of carelessly failing to diagnose and treat the injuries properly, which constituted malpractice resulting in the patient suffering further harm.
+
+The physician refuted the claims, arguing that if the patient suffered any injury and pain as a result of the accident, it was due to the patient's own actions, including not permitting a thorough examination by the physician and not following instructions regarding exercising the injured limb and seeking further treatment, including an X-ray examination.
+
+During the trial, the court sustained certain special exceptions and overruled general demurrers, ultimately leading to a verdict in favor of the patient. The jury awarded the patient $1,250 in damages with interest. The appellant's motion for a new trial was overruled, leading to an appeal. 
+
+The appeal discussed several points, including: whether it was error to permit the patient to testify about the permanency of the injuries, the admissibility and qualifications of an expert witness, Dr. Williams, and the jury's verdict based on the extent of the injuries and physician's care standard. Furthermore, the definition of proximate cause provided to the jury, which omitted the element of foreseeability as a necessary component, was questioned as a significant point of error that might require reversal of the judgment.
+
+Verdict:
+The appellate court will focus on the error made by the trial court in its jury instruction regarding the definition of proximate cause. Since proximate cause was a material issue in this case, the omission of foreseeability or anticipation of injury as an essential element was a significant oversight. Even though the appellant did not request a special charge correcting this definition after objecting to the original charge, recent precedent (e.g., Conley Case) has established that it is unnecessary to request a special charge to preserve the objection to an incorrect jury instruction.
+
+The appellate court will likely recognize that the trial court's definition could have misled the jury regarding the necessary conditions for establishing the appellant's negligence as the proximate cause of the patient's injuries. As a result, the appellate court will reverse the judgment in favor of the patient and remand the case for a new trial, ensuring that the jury is adequately instructed on all aspects of proximate cause, including the requirement of foreseeability. The appellate court's decision will underscore that proper jury instruction is crucial for a fair trial, especially on pivotal legal concepts like proximate cause that underpin a malpractice lawsuit's outcome. 
+
+}

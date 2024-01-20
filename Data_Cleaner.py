@@ -1,5 +1,4 @@
 RAW_FOLDER_PATH = './Raw_Cases_Repo/Raw_Cases_Suicide_50'
-#Suicide
 import os
 from striprtf.striprtf import rtf_to_text
 

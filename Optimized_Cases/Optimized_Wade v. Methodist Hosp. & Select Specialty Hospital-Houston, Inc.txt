@@ -1,0 +1,23 @@
+Background:
+Daisy Mae Simpson, a known diabetic, underwent coronary bypass surgery at the Methodist Hospital. After developing a decubitus ulcer post-operatively at Methodist, she was transferred to Select Specialty Hospital-Houston, Inc. (Select) for long-term care. Simpson later died from sepsis, which allegedly originated from the ulcer.
+
+Deborah Wade, representing Simpson's heirs, sued Methodist and Select, claiming that the hospitals' failure to use an egg crate mattress led to Simpson developing the pressure ulcer and subsequent infection, resulting in her death. The lawsuit was filed on November 5, 2001.
+
+The case was governed by the former Texas Medical Liability and Insurance Improvement Act, which required the filing of an expert report within 180 days of initiating a lawsuit, with a possible 30-day extension. Methodist filed a motion to dismiss on July 25, 2002, claiming the expert report deadline had passed, and Select followed with a similar motion.
+
+Wade admitted to missing the deadline and requested an extension, attributing the delay to her solo-practitioner counsel's busy schedule. However, she argued that an expert report was unnecessary because the alleged negligence was within common knowledge and fell under common law negligence and res ipsa loquitur principles.
+
+The trial court granted the hospitals' motions to dismiss, and Wade appealed, claiming: 1) the expert report should not have been required, 2) the trial court should have granted an extension, 3) the trial court failed to apply progressive sanctions before dismissing the case, and the hospitals waived their right to an expert report by engaging in discovery and waiting more than 210 days to file their motions to dismiss.
+
+Verdict:
+The appellate court will affirm the trial court's dismissal, basing its decision on the clear legislative requirements and prior jurisprudence regarding expert reports in medical malpractice cases. It will reject Wade's argument that the case falls within common law exceptions that do not require expert testimony. The court will find that Wade has failed to provide sufficient evidence that most people are aware of the use of an egg crate mattress to prevent bedsores and that no expert testimony is necessary.
+
+Regarding the procedural requisites, the appellate court will determine that the trial court did not deviate from the Act's requirements. Since Wade's counsel was aware of the expert report deadline but was too occupied to meet it, this constitutes a failure to demonstrate accident, mistake, or innocence.
+
+As to the argument of waiver, the court will conclude that neither the Act nor case law supports the idea that Methodist and Select waived their rights to dismissal by engaging in discovery or waiting to file the motion to dismiss.
+
+For the request for extension, Wade will fail to prove an abuse of discretion by the trial court. Being inundated with work does not meet the criteria for accident or mistake necessary to grant an extension.
+
+Finally, the court will find that Wade's contention that the trial court erred by not reinstating her claims falls short. The justification for reinstatement does not meet the legal threshold for proving mistake or accident, as the failure to file was due to her attorney being busy, which is insufficient to demonstrate absence of intentional or conscious indifference.
+
+In conclusion, the requirement for an expert report was not met, no proper justification for an extension was provided, the hospitals did not waive their rights, and there was no procedural error by the trial court. Thus, the appellate court will uphold the judgment of the trial court to dismiss the case.

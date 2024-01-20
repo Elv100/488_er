@@ -1,0 +1,23 @@
+Background:
+Elizabeth Martinez sued El Paisano Northwest Highway Inc., operating as Taqueria El Paisano, for personal injuries she alleged were caused by the restaurant's security guard. On August 18, 2017, Martinez and her two adult daughters were at the restaurant when a dispute over a $2.50 charge for tortillas led the on-duty manager to instruct security guard Frankarlos "Frank" Tovar to remove Martinez from the premises. This resulted in Tovar forcefully taking Martinez outside, placing her in a chokehold, slamming her onto concrete, and handcuffing her. Martinez was taken to the hospital by ambulance after the incident.
+
+In her suit, Martinez claimed that Tovar was either an employee of El Paisano or a company named 250LB LLC d/b/a Delta Security Solutions ("Delta"), but later dropped claims against Delta. She argued that El Paisano was vicariously liable for the guards’ actions and negligent in multiple ways.
+
+El Paisano contended Tovar was an independent contractor, and argued Delta's negligence was the proximate cause of Martinez’s injuries, moving to designate Delta as a responsible third party. The trial court granted this motion.
+
+During discovery, Martinez experienced difficulties obtaining information about El Paisano's staff and its relationship with Tovar. She filed four motions to compel discovery and/or for sanctions, which revealed conflicting testimony about the manager's identity at the time of the incident and other obfuscations by El Paisano. Discovery sanctions were imposed, striking El Paisano's designation of Delta as a responsible third party and awarding Martinez attorney's fees and expenses for certain depositions.
+
+At trial, Martinez presented evidence of her immediate injuries and follow-up medical treatment, which included a range of physical and psychological symptoms. There was expert and lay testimony about Martinez’s preexisting medical conditions and Tovar and Delta's owner provided testimony about the extent of their relationship.
+
+The trial court found that Tovar and another guard, Anna Obregon, were El Paisano employees and were responsible for Martinez's injuries. The court found El Paisano 50% responsible and Tovar and Martinez 25% each. It rejected claims of gross negligence and intentional infliction of emotional distress but awarded damages for various injuries and losses claimed by Martinez.
+
+El Paisano appealed, challenging evidence sufficiency on causation, various damages, vicarious liability for Tovar’s actions, and arguing the court abused its discretion with discovery sanctions.
+
+Verdict:
+Given that some of Martinez’s injuries and their subsequent treatment are not within the common knowledge of laypersons, expert testimony would be necessary to establish the causation between the incident and all of her purported medical problems. While lay testimony could establish a link between the assault and immediate "basic" injuries, for more complex conditions like memory loss, loss of senses, and hand jerking (possibly due to a seizure disorder), expert evidence is necessary for establishing causation. Accordingly, a factfinder could not reasonably find a causal connection between all of Martinez's medical issues and the August 2017 incident without expert testimony. Therefore, the evidentiary support for the full amount of past medical expenses awarded by the trial court is lacking.
+
+Despite the sufficiency of evidence for some damages, the appellate court cannot order a new trial on unliquidated damages only where liability was contested. Hence, a full retrial is the proper course since the relationship between the severity of the injuries and the compensable amounts is unclear due to the lack of expert testimony for certain medical conditions and treatments.
+
+On discovery sanctions, El Paisano did not demonstrate an abuse of discretion by the trial court. The sanctions imposed pretrial were related to El Paisano's conduct during discovery, where it repeatedly resisted discovery and provided misleading information, thereby hindering Martinez's investigation into Tovar's employment status and relationship with the restaurant. The monetary sanctions had a direct correlation to the harm caused by this conduct.
+
+In conclusion, the trial court's judgment regarding discovery sanctions against El Paisano will be affirmed. All other aspects of the judgment, including those on liability and the various elements of damages awarded, will be reversed and remanded for a new trial, as the complexity of the medical conditions and the lack of expert testimony to establish causation for some conditions make a precise determination of damages infeasible.

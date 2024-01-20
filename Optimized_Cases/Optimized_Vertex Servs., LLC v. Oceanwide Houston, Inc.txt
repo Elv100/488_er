@@ -1,0 +1,26 @@
+Background:
+Vertex Services, LLC (Vertex), a company supplying offshore labor and staffing, engaged in a legal dispute with Oceanwide Houston, Inc., Oceanwide Texas, Inc., and Oceanwide America, Inc. (collectively, Oceanwide). Vertex accused Oceanwide of "poaching" its foreign workers that were intended for a contract with an oil and gas company, TETRA Applied Technologies, LLC (TETRA), thus forcing Vertex out of business dealings with TETRA. Vertex's claims arose from several events:
+
+- Vertex had a contract with TETRA to supply contract labor until December 31, 2015.
+- To fulfill its obligations to TETRA, Vertex engaged Sea Cross Marine PTE (Sea Cross) through a contract initiated on June 20, 2010, which technically expired on October 9, 2010, but their business relationship continued past this end date.
+- TETRA informed Vertex it would not extend their contract beyond the initial term due to a need for reduced labor costs.
+- Meanwhile, Vertex and TETRA had discussions about reduced rates for labor in the following year.
+- On December 15, 2015, Jimmy Ho of Sea Cross expressed preference to continue working through Vertex.
+- By "February 2016," Sea Cross ended its contract with Vertex.
+- Oceanwide began negotiations to supply labor to TETRA in February 2016.
+- Communications between John Ford of Oceanwide and Ho suggested Oceanwide's intention to partner with Sea Cross for TETRA's labor needs.
+- On February 8, emails between Ho and James Ireland of Oceanwide discussed the provision of former Sea Cross laborers to TETRA through Oceanwide.
+- On March 4, 2016, TETRA and Oceanwide signed a labor-supply contract that required Oceanwide to provide the same foreign labor that Sea Cross had provided through Vertex in 2015.
+- Vertex filed suit against Oceanwide, claiming (1) tortious interference with the Vertex-Sea Cross contract, (2) tortious interference with a prospective business relationship with Sea Cross, (3) misappropriation of Vertex's knowledge and trained employees, and (4) conspiracy to interfere with the Vertex-Sea Cross contract.
+- Oceanwide filed a no-evidence and traditional summary judgment motion on all of Vertex's claims, which the trial court granted.
+
+Verdict:
+The court will affirm the trial court's judgment, locating several issues with Vertex's claims. Regarding misappropriation, the court will state that the knowledge, training, and expertise of human labor are distinct from saleable work products and cannot be considered products capable of misappropriation. Conversion of intangibles like Vertex's "knowledge of the industry, business practices, and trained employees" does not fulfill the criteria of a protectable product, as established by existing case law which typically requires a product to be distinct and saleable in nature.
+
+As for tortious interference with contract, the court, after confirming that Oceanwide's motion initially failed to properly address the Vertex-Sea Cross contract, will find that the summary judgment relating to this claim was put before the court by Vertex's response and Oceanwide's reply, which were fully argued and addressed. Nevertheless, the court will determine there is no evidence that the Vertex-Sea Cross contract was still effective when Oceanwide allegedly interfered with it. Additionally, there is no evidence that Oceanwide knew of the contract's status or intentionally acted to cause its breach.
+
+The claim for tortious interference with prospective business relations will not be effectively disputed by Vertex, leading the court to also affirm the judgment on this claim; Vertex only challenges the Oceanwide-TETRA dynamic, not the claim related to prospective relations with Sea Cross as asserted in its underlying petition and addressed in the trial court's judgment.
+
+Finally, regarding the civil conspiracy claim, the court will underscore that this claim is dependent on the existence of an underlying tort. Since the tortious interference claim does not survive, the court will conclude that the civil conspiracy claim based on this tort also fails.
+
+In sum, the court will sustain Oceanwide's no-evidence summary judgment on all claims due to Vertex's inability to demonstrate the existence of key elements within its claims, reinforcing that Vertex has not presented sufficient evidence to justify its allegations or overcome the summary judgment.

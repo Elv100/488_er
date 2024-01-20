@@ -1,0 +1,20 @@
+Background:
+The case revolves around a fatal collision that occurred in October 2000 at the intersection of State Highway 21 and Farm-to-Market Road 95 (FM95) in Nacogdoches County, Texas. Driver Earl Haley, with passengers Heather Anderson and Casey Pate, either stopped or slowed to a crawl at a stop sign before slowly entering the highway, where their vehicle was struck by a tractor-trailer truck traveling just above the speed limit. The evidence suggested that the sight line from the stop sign to Highway 21 was obstructed by trees and underbrush that had grown up in the state highway right-of-way, severely limiting the view of oncoming traffic until the vehicle was entering or very close to the intersection.
+
+The survivors of the deceased sued the Texas Department of Transportation (the Department) under a premises defect theory. They claimed that the Department did not maintain clear sight lines at the intersection by trimming the vegetation as necessary, which therefore created a safety hazard. The jury found the Department sixty percent responsible for the incident and deceased driver Haley forty percent responsible. The Department argued on appeal that its sovereign immunity was not waived by the Texas Tort Claims Act because keeping sight lines clear was supposedly a discretionary duty. They also challenged the jury's findings relating to the Department's negligence—particularly on the grounds of unreasonable risk of harm, failure to warn, and proximate cause—and questioned the admission of subsequent remedial measures as evidence.
+
+Verdict:
+The judgment will be affirmed based on the following reasoning:
+
+(A) Sovereign Immunity Does Not Bar Recovery
+The appellate court will disagree with the Department's claim of sovereign immunity because the Texas Tort Claims Act grants a limited waiver of immunity in the case of premises defects, which is what is alleged in the lawsuit. The lawsuit will be interpreted as centered on the Department's duty to maintain the right-of-way and not as a complaint about the discretion of the Department's design decisions. The Act's waiver of immunity for nondiscretionary functions such as maintenance will be taken to apply in this case.
+
+(B) The Evidence Is Sufficient To Support the Jury's Findings
+1. Unreasonable Risk of Harm—The jury's finding will be supported by evidence demonstrating that the sight line was compromised to less than one-third the recommended visibility, establishing a condition posing an unreasonable risk of harm.
+2. Failure to Warn—The Department's argument that the presence of a stop sign and blinking light constituted adequate warning will not suffice because they do not warn drivers of the specific condition of limited visibility. Moreover, Haley seemingly complied with the stop instructions, and the lack of further warning will be seen as a failure on the Department's part.
+3. Proximate Cause—Evidence will suggest that Haley's inability to see oncoming traffic and the subsequent lack of response time were substantial factors in causing the accident, thus establishing the Department's negligence as a proximate cause of the injuries.
+
+(C) Admitting Evidence of Subsequent Remedial Measures Was Harmless Error
+The Department's claim that admission of evidence regarding subsequent remedial measures, such as the post-accident cutting of trees, was improper will be held as not meriting a reversal. It will be argued that the Department's lack of objection at trial to certain exhibits showing the sight lines before and after the trees were cut, effectively waives any error. Moreover, the other admitted evidence would have allowed the jury to logically deduce the same conclusions, and thus any error in admission would be considered harmless.
+
+In summary, the appellate court will affirm the judgment against the Department due to a finding that sovereign immunity does not protect it in this situation, that the evidence supports the jury's findings of negligence on the part of the Department, and that any error in admitting evidence of subsequent maintenance was ultimately harmless.

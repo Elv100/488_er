@@ -1,0 +1,27 @@
+Background:
+In 1982, Allan J. Fox's wife, Carol H. Fox, underwent a gynecological surgery to facilitate conception at Memorial City Medical Center, during which she received two units of blood. The first unit was ordered by the anesthesiologist, Dr. Girgis, and the second by Carol's doctor, Dr. Estrada. Following her recovery, Carol's last visit to Dr. Estrada was in November 1982.
+
+On June 15, 1984, Carol gave birth to Megan Fox. In 1990, Carol became ill, was hospitalized, and tested positive for Human Immunodeficiency Virus (HIV). Allan and Megan were subsequently tested, with Allan testing negative and Megan testing positive for the virus. On Christmas Day in 1991, Carol passed away due to complications related to Acquired Immunodeficiency Syndrome (AIDS). Megan also succumbed to AIDS-related complications on June 3, 1996.
+
+Allan J. Fox filed a medical malpractice suit against the hospital, Dr. Girgis, and later amended it to include Dr. Estrada, alleging negligence in ordering the blood transfusion for Carol that he contended led to the HIV infections and the deaths of Carol and Megan.
+
+On January 10, 1997, Dr. Estrada moved for summary judgment, asserting that the statute of limitations had expired, and there was no legal duty or proximate cause to find in Allan's favor. The trial court granted summary judgment for Dr. Estrada on May 16, 1997, severing his part of the case from the rest, and rendering a final judgment in his favor.
+
+Allan appealed the summary judgment, claiming the trial court erred in ruling on several points, namely:
+(1) Dr. Estrada owed no duty to Megan,
+(2) Dr. Estrada's alleged negligence was not the proximate cause of Megan's HIV infection,
+(3) Texas does not recognize preconception torts,
+(4) the statute of limitations barred all claims by Allan, individually and on behalf of both Carol and Megan.
+
+During the appeal, evidence highlighted that in 1982, the transmission of HIV through blood transfusion was not foreseeable within the medical community because the virus and the disease had not been identified at the time of Carol's transfusion.
+
+Verdict:
+The court affirmed the summary judgment for Dr. Estrada, predicting that the appellant, Allan J. Fox's claims would fail because there was no foreseeable proximate cause or legal duty present at the time of Carol's transfusion in 1982. The court would rule that foreseeability is determined not by hindsight but based on whether a person of ordinary intelligence could have anticipated the danger at the time of the negligent act. Since HIV was unknown and its transmission via blood transfusion was unforeseeable in 1982, it would be ruled that Dr. Estrada could not have anticipated the risk of HIV/AIDS exposure for Carol or her yet-to-be-conceived child, Megan.
+
+The court would note the distinction between the blood-borne pathogens known in 1982 and HIV/AIDS, underscoring that the known pathogens were treatable, rarely fatal, and did not present comparable danger. In light of this, the court would not place an obligation to foresee the HIV/AIDS risk on Dr. Estrada or the medical community. 
+
+The question of foreseeability for Megan would be dismissed since Estada could not have known Carol would be exposed to HIV. Imposing such knowledge and liability upon Estrada for an unknowable consequence would unfairly require the medical community to act as insurers, which the court would reject.
+
+The court's opinion would be that a claimant cannot premise liability on the anticipation of unknown risks, rejecting any argument that the medical community should have foreseen the transmission of a then-unknown blood-borne disease like HIV through a blood transfusion.
+
+Since the judgment may be affirmed on any meritorious theory presented in the motion for summary judgment, and the foreseeability analysis for Carol also applies to Megan, the court would rule that the remaining points of error brought forth by Allan J. Fox do not alter the outcome of the summary judgment. Therefore, the verdict would support the trial court and maintain the judgment in favor of Dr. Estrada.

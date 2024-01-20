@@ -1,0 +1,19 @@
+Background:
+The case revolves around an accident where a victim, a female dairy farm owner, was struck by a freight train operated by the defendant railway company, St. Louis Southwestern Railway Company of Texas, near a public highway crossing at Winona, Texas. The victim was attempting to drive her cattle across the track at the time of the incident. The victim sued the railway company for damages, claiming that the company's negligence led to the accident. The allegations included that the crossing was extra-hazardous, the company failed to install a "wig-wag" signal device, failed to sound the whistle and bell, did not maintain a proper lookout, and operated the train at a high, rapid, and dangerous speed.
+
+The railway company argued that the victim was guilty of contributory negligence both before and after noticing the approaching train. The incident occurred on the morning of April 21, 1939, when the victim was driving her four cows across the tracks; she noticed the train when it was 420 to 450 feet away. Believing her cow was in danger, she attempted a rescue, which resulted in the accident.
+
+The jury ruled in favor of the victim, finding the train's speed to be negligent and a proximate cause of the injuries. They disagreed that the absence of a whistle, bell, proper lookout, or wig-wag signal were proximate causes. The issues of whether the victim's fright and apprehension for her cow led her to the position of danger and whether she exercised ordinary care for her safety were all answered affirmatively. The victim claimed she was scared, lost her head at the moment of the train's approach, and was trying to save her cow that was on the track.
+
+The railway company contended that the victim was guilty of contributory negligence as a matter of law, that her actions were the sole proximate cause of her injuries, and that the speed of the train was not a proximate cause of any fright or apprehension.
+
+The victim, as part of her defense, argued that the company knew the crossing was regularly used by her and others to drive cattle and should have anticipated the operation of the train at high speeds creating danger. The legal principle at stake was whether the rule that exonerates someone from contributory negligence in an attempt to rescue a person from peril should also apply to the rescue of property.
+
+Verdict:
+The appellate court will conclude that the victim acted with contributory negligence by leaving a place of safety to rescue her cow. The court will reason that while there is a legal precedent for a person being exonerated from contributory negligence when attempting to rescue another person from peril, this rule has not been extended in Texas, nor in any provided case law, to include the rescue of imperiled property.
+
+The court will refer to previous cases supporting the principle that voluntarily entering a place of danger to rescue property constitutes contributory negligence. Furthermore, the court will differentiate between the impulse to save human life, which may mitigate contributory negligence, and the impulse to save property, which does not.
+
+The court's decision will reverse and remand the lower court's judgment based on this legal distinction, ignoring the jury's findings that the victim acted in fright and exercised ordinary care for her safety up until the point of becoming frightened. They will dismiss arguments related to the train's speed, whistle, bell, lookout, and wig-wag signal, as they will view the victim's contributory negligence as the sole proximate cause of her injuries.
+
+The appellate court will find that the victim's decision to risk danger for the cow was negligent as a matter of law, rendering irrelevant any negligence on the part of the railway company. As such, the judgment in favor of the railway company will be reversed and rendered, and there will be no need for further discussion on the other issues the defendant raised.

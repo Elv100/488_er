@@ -1,0 +1,19 @@
+Background:
+
+William E. Jordan, the appellee (insured), filed a lawsuit against Combined American Insurance Company, appellant (insurer), to recover benefits under an accident, hospitalization, and indemnity insurance policy issued by the insurer. The trial court, without a jury, ruled in favor of the appellee, awarding him a total of $1,090.00 for benefits, plus a $130.00 statutory penalty and $500.00 in attorneys' fees. 
+
+The insurance policy specified that benefits were recoverable for loss resulting "directly and independently of all other causes from accidental bodily injuries" and not in any way caused or contributed to by disease. On October 6, 1964, the appellee, a 68-year-old man employed by his son, suffered an accidental bodily injury while lifting a machine component at work, resulting in a volvulus of his small intestine. Prior to this, the appellee had undergone two major surgeries for cancer of the colon, which left him with a significant amount of abdominal adhesions.
+
+The insurer appealed the decision, contesting that the appellee's condition was caused by the combination of the injury and pre-existing abdominal adhesions. The appeals court initially reversed the trial court's judgment and rendered a judgment for the appellant insurer, concluding that the appellee could not prove his incapacity was caused solely by an accidental injury. Citing Mutual Benefit Health and Accident Ass'n. vs. Hudman, the appeals court asserted that the injury must be the sole cause of the condition to be covered by such a policy—with no concurring disease condition contributing to the disability.
+
+On motion for rehearing, the court revisited their decision, particularly with respect to a separate "dividend certificate," which offered different coverage without the same restrictions as the policy. The certificate provided benefits for accidental bodily injuries not caused by disease, but without requiring exclusivity of the accident as the cause, unlike the policy. Based on the distinction between the policy and the certificate, the court held that the more restrictive limitations of the policy did not apply to the certificate.
+
+Verdict:
+
+The court will determine its verdict based on the differing terms of the insurance policy and the dividend certificate. Regarding the insurance policy, the court will uphold the decision that the appellee cannot recover because he could not unequivocally prove that his incapacity was caused solely by an accidental injury, as required by the policy. The presence of pre-existing abdominal adhesions will be considered as a contributing factor, thus not satisfying the terms of the policy that require an injury to be the sole cause of the condition.
+
+Regarding the dividend certificate, the court will rule in favor of the appellee, finding that he is entitled to benefits. As the certificate does not contain the restrictive provision found in the policy—that injuries be sustained "independently of all other causes"—the coexistence of the accidental injury and the pre-existing abdominal adhesions will not preclude recovery under the certificate. 
+
+The medical testimony indicated the accidental injury was the primary and proximate cause of the bodily injury, while the adhesions made the appellee more susceptible to the condition; this, the court will conclude, falls within the coverage of the certificate. The court will affirm recovery under the dividend certificate (but not under the policy) and remand the case for a new determination on reasonable attorneys' fees and the amount of statutory penalty, reflective of the affirmed portion of coverage under the dividend certificate only. 
+
+As a result, the appellee will receive the affirmed award under the certificate, but the take nothing judgment will stand in relation to the insurance policy claims due to the concurrent causation of pre-existing adhesions and the accidental injury.

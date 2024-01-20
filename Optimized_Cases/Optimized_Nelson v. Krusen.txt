@@ -1,0 +1,23 @@
+Background:
+Petitioner parents, Tom and Gloria Nelson, brought an action for wrongful birth and wrongful life against respondents, Dr. Edward Krusen and Baylor University Medical Center, after Dr. Krusen advised them that Mrs. Nelson was not a carrier of Duchenne muscular dystrophy and, consequentially, their potential child was not at an increased risk of being affected by the disease. Based on this advice, the Nelsons decided not to terminate the pregnancy, and their child, Mark Nelson, was born on November 24, 1976. Shortly after his third birthday, Mark was diagnosed with Duchenne muscular dystrophy.
+
+The Nelsons filed suit alleging that if they had known of the risk of the disease, they would have terminated the pregnancy. They also claimed that the hospital had conducted or reported certain tests negligently, contributing to the misinformation provided by Dr. Krusen. The trial court, however, rendered summary judgment for Dr. Krusen and Baylor on the grounds that the two-year statute of limitations had run on the wrongful birth claim, and that no cause of action for wrongful life existed in Texas. The court of appeals affirmed this decision before the Nelsons further appealed.
+
+The Texas Supreme Court, upon reviewing the appeal, focused on two major issues:
+
+1. *Statute of Limitations*: The defendants contended that the Nelsons' actions were barred as they were not brought within two years of the last examination by Dr. Krusen, based on the limitations period prescribed by article 5.82, section 4 of the Insurance Code.
+
+2. *Wrongful Life*: The court needed to decide whether the child, through his next friend, could assert a separate cause of action for "wrongful life," arguing that Dr. Krusen's negligence was the proximate cause of his birth with muscular dystrophy.
+
+The court considered whether enforcing such a limitations period as is would be unconstitutional, specifically in relation to the "open courts" provision of the Texas Constitution, which guarantees remedy by due course of law. The Nelsons contended that this guarantee makes any legislative attempt to bar their cause of action prior to its discovery unconstitutional.
+
+The court examined previous decisions construing the open courts provision, the principles of which establish that imposition of an impossible condition, such as barring a cause of action before the party knows or reasonably should know they have been injured, is unconstitutional. The limitation period of article 5.82, section 4, if applied as written, would thus contravene these principles by requiring the Nelsons to sue before they had any reason to know they should sue.
+
+Verdict:
+The Texas Supreme Court held the two-year statute of limitations unconstitutional under the open courts provision to the extent it purported to cut off an injured person's right to sue before they had a reasonable opportunity to discover the wrong and bring suit. It was concluded that article I, section 13 prohibits the legislature from denying a remedy by due course of law, and it cannot operate to bar a parent's cause of action before they knew it existed or could reasonably have discovered it within two years.
+
+For the parents' wrongful birth claim, the statute's application was deemed unreasonable and arbitrary, as it would cut off their cause of action before it was possible to discover their injury. The existence of a "wrongful birth" cause of action was upheld under Texas law, recognizing that parents may recover for the care and treatment of their child's impairment when caused by a physician who has negligently failed to inform them of the risk of such an impairment.
+
+However, the court affirmed the judgment that there is no cause of action for wrongful life in Texas, thus denying the separate suit brought on behalf of Mark Nelson. The court reasoned that compared to the claim of the parents, the wrongful life claim would require weighing the benefits of life against the detriments of an impaired life--a calculation deemed rationally unresolvable. The idea of assessment of damages is predicated upon the notion that but for the negligence, the plaintiff would have been in a condition different from the actual one post-negligence. In a wrongful life case, such comparison was deemed nonsensical, as it would require comparing an impaired life to nonexistence.
+
+Therefore, the Supreme Court reversed the part of the judgment affirming summary judgment on the wrongful birth claim and remanded the case for trial, while also affirming the determination that prevents the recognition of wrongful life claims under Texas law.

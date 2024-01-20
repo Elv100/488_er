@@ -1,0 +1,23 @@
+Background:
+This is a products liability case where appellant patients sued appellees E.I. DuPont de Nemours & Company (DuPont), Baylor College of Medicine (Baylor), and Louisiana State University (LSU) for injuries allegedly caused by temporomandibular (jaw) joint (TMJ) implants.
+
+E.I. DuPont de Nemours & Company (DuPont) sold polytetrafluoroethylene (PTFE) and fluorinated ethylene propylene (FEP) under the Teflon trademark to Vitek, which used these materials to manufacture medical devices, including the TMJ implant in question. Prior to selling PTFE to Vitek, DuPont issued a disclaimer stating they did not manufacture Teflon for medical purposes, had not conducted detailed long-term studies for such use, and that the company would not be responsible for consequences resulting from medical use.
+
+Dr. Charles Homsy, a former DuPont employee and the founder of Vitek, began purchasing PTFE from DuPont and developed Proplast, a porous implant material encouraging tissue ingrowth. Despite DuPont's medical use disclaimer, Homsy's invention led to a variety of medical device applications, including the disputed TMJ implants. The FDA authorized the sale of the Proplast TMJ Interpositional Implant.
+
+Appellants brought action against DuPont under theories of strict liability, negligence, and "concert of action," alleging DuPont was aware of the medical use of their products and failed to warn accordingly. They sued Baylor for negligence related to hiring and supervising Dr. Homsy and for failing to warn of the dangers of the TMJ implant developed by Homsy. Lastly, they sued LSU for negligence, claiming liability because LSU's employee, Dr. Kent, helped design the TMJ implant.
+
+Verdict:
+The court affirmed the summary judgments in favor of DuPont and Baylor and affirmed the plea to the jurisdiction granted in favor of LSU.
+
+For DuPont, the court predicted there was no strict liability for supplying PTFE and FEP because DuPont did not provide defective or inherently dangerous products. It just supplied a raw material to Vitek, a manufacturer with independent duty to warn. The court would also note that no evidence showed employing the doctor who designed the implant by Baylor proximately caused appellants' injuries.
+
+There was no basis for strict liability on the part of DuPont because the PTFE and FEP supplied were not defectively manufactured, and DuPont sold these according to Vitek's specifications. There was no evidence of defective PTFE or FEP used in the appellants' implants. Moreover, the injuries resulted from the design of the implant and its location, rather than the properties of PTFE.
+
+DuPont did not owe a duty to warn because Vitek was capable of passing on necessary warnings to consumers, and no evidence showed DuPont was involved in the design or marketing of the implants. Also, DuPont's HS-10 process’s similarities with Vitek's process for making Proplast did not contribute to foreseeing the specific failure of the implant. Furthermore, the fact that Homsy or Vitek misrepresented their products as "medical grade" Teflon did not make DuPont a knowing collaborator.
+
+For Baylor, the court found no evidence that Baylor was negligent in hiring or supervising Homsy nor did it show Baylor had a duty to warn of the dangers. It did not have any control over the design, development, or marketing of the TMJ implant or Proplast. Baylor's institutional review board did not review protocols for the TMJ implant, and Baylor itself did not conduct any research, development, designing, or testing related to the TMJ implant.
+
+In regards to LSU, the court would apply the principle of comity in deference to Louisiana state law, which prescribes that suits against the state or any state agency should not be instituted in any court other than a Louisiana state court. The Louisiana venue statute does not offend any Texas public policy; therefore, LSU would be granted a plea to the jurisdiction.
+
+Based on these findings, the court would conclude that appellants' injuries were due to the design and application of the TMJ implants rather than any failure by DuPont or Baylor. LSU's distinct jurisdictional status would further remove it from liability in the Texas court.

@@ -1,0 +1,5 @@
+peft
+transformers==4.28
+torch
+argparse
+datasets

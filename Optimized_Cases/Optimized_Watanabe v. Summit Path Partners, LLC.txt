@@ -1,0 +1,17 @@
+Background:
+Hicham Watanabe was injured in an assault that occurred in a parking lot in the early hours after his work as a valet manager at Nox nightclub in Houston, Texas. He was hoping to deescalate a heated verbal confrontation between a parking attendant, Samsung, and four angry men. The men were agitated because their cars had been broken into while parked in one of the two parking lots owned by Summit Path Partners, LLC but operated by Hocine Aitmohand. Watanabe crossed the street to assist and ended up following the men to see the damage to their vehicles, where he was punched in the eye by one of the men, later identified as Terrance Williams, which resulted in significant injuries.
+
+Watanabe filed a lawsuit against various parties including the property owner (Summit Path Partners, LLC), the parking lot lessee (Hocine Aitmohand), and his employers (A.J. Ahmed and Edward Hua), alleging negligence and premises liability for failing to provide adequate lighting and security which contributed to his injuries. Watanabe's assault claims were based on the assertion that the defendants should have anticipated the criminal conduct due to the high rate of violent crime in the area. The trial court granted take-nothing summary judgment in favor of all defendants, dismissing Watanabe's claims, and Watanabe appealed.
+
+Verdict:
+The appellate court is likely to affirm the trial court's judgment for several reasons predicted based on the detailed backgrounds:
+
+1. Summit Path may not owe a duty to Watanabe as they might argue that they were not in possession of the premises at the time of the assault (since the property was leased to Aitmohand) and could also assert that they had no duty to protect Watanabe from Williams's criminal act, assuming that such an act was not foreseeable to them. Any duty of Summit Path would hinge upon their control of the premises, the foreseeability of the criminal activity, and Watanabe's status – whether he was an invitee, licensee, or trespasser.
+
+2. Watanabe's voluntary involvement to deescalate a dangerous situation may classify him as an implied licensee. Given he knew the risks involved (was aware of the alteration, perceived the possibility of a physical altercation, and acknowledged the area was dark), Summit Path had no duty to warn him or make safe the dangerous condition of which he was already aware. 
+
+3. As for Ahmed and Hua, they may argue successfully they did not owe Watanabe a duty of care as they neither owned nor controlled the premises where the assault occurred. Additionally, as they operated Nox as EA-BBC, LLC, they may assert that any claims against them personally are inappropriate, and they could raise the affirmative defense of limitations against EA-BBC, LLC.
+
+4. Aitmohand may claim that there is no evidence of duty or proximate cause linking him to Watanabe's injuries. Since Watanabe failed to present evidence in response to Aitmohand's no-evidence motion for summary judgment, as required under Rule 166a(i), the court could affirm the summary judgment in favor of Aitmohand.
+
+A prediction of the outcome will consider the evidence on record and the legal principles of premises liability, duty based on the plaintiff's status, and the control of the premises to determine whether the trial court's judgments were appropriate. The verdict in favor of the defendants will likely be affirmed based on the points raised.

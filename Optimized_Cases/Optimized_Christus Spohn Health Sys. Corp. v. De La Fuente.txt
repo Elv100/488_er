@@ -1,0 +1,21 @@
+Background:
+Lisa De La Fuente had previously given birth via cesarean section and anticipated delivering her third child, Giovani, vaginally. She was admitted to Spohn and treated by Dr. Juan Caceres. During labor, augmented with the drug Pitocin, Giovani began experiencing heart decelerations, and Lisa faced pain and vomiting. After Giovani entered bradycardia, Dr. Caceres called for an emergency cesarean section. In the operating room where the nurses initially could not detect Giovani's heartbeat, it was discovered that Lisa had suffered a ruptured uterus and placental abruption. Giovani was stillborn but was resuscitated; however, he suffered profound brain damage from oxygen loss.
+
+The De La Fuentes sued Spohn and Dr. Caceres, alleging negligence in the administration of Pitocin and delay in performing the cesarean section. Before trial, a settlement was reached with Dr. Caceres resulting in a high-low agreement, where the jury found Spohn negligent but not Dr. Caceres.
+
+The testimony revealed a possible delay at multiple points: Spohn's failure to identify signs of uterine rupture and delaying the cesarean section decision, moving Lisa to the operating room, and preparing the operating room for surgery. Experts contended that Spohn delayed seven minutes to approach the operating room and 11 minutes to begin surgery after calling for an emergency cesarean, arguing that it was an unacceptable duration. Evidence also suggested Spohn's medical records were not consistent with the videotape taken during labor.
+
+Regarding Pitocin administration, expert testimonies indicated that its misuse could lead to hyperstimulation and uterine rupture, especially in women attempting vaginal birth post-cesarean. The medication's insert supported this claim. However, there was disagreement among medical professionals on this point.
+
+The jury awarded the De La Fuentes damages for past and future medical expenses, as well as mental anguish for the parents, but Spohn challenged several aspects of the trial court's judgment.
+
+Verdict:
+In the appeal decision, the court would find there was legally and factually sufficient evidence for the jury to conclude Spohn was negligent and such negligence proximately caused Giovani's injuries, based on the ample evidence of delay, the association between Pitocin administration and uterine rupture, and expert testimonies found credible by the jury.
+
+However, the court would also determine that the trial court erred in awarding mental anguish damages to the parents since parents cannot recover for mental anguish damages for the negligent infliction of non-fatal injuries to their children under Texas law.
+
+Furthermore, the appellate court would confirm the trial court's judgment regarding future medical expenses, despite Spohn's objections to Dr. Willingham's testimony on life expectancy and the claimed potential overestimation of costs. The jury had evidence to determine that future medical care was a reasonable probability, with expert testimony complementing the staggering medical costs already incurred by the De La Fuentes, thus providing a legally and factually sufficient basis for the $5,000,000 award.
+
+Regarding past medical expenses, the court would reject Spohn's claim that Dr. Willingham's reliance on summaries was insufficient, citing rule allowing experts to base opinions on data of the kind reasonably relied upon by experts in the particular field. Thus, the jury's less-than-total incurred amount awarded would be upheld as supported by sufficient evidence.
+
+As for the procedural errors claimed by Spohn, the court would likely find no reversible errors were committed that affected the fairness of the trial process. Regarding the settlement credit contention, since Spohn, upon its own request, allowed the credits to be applied proportionally, it would be barred from disputing this. Furthermore, since they did not make a timely objection to the settlement credit allocation, error preservation rules prevent them from success on this point on appeal.

@@ -1,0 +1,19 @@
+Background:
+Baty & Associates Insurance Agency, Inc. (BAI) is an independent insurance agency in Texas where Rick D. Baty is the president and part owner. The company employed Connie Suzanne Malliaros and Treva C. Neill as sales representatives, who later became officers and shareholders, each purchasing ten percent of BAI stock in April 1993. They were bound by a Shareholders' Agreement containing covenants not to compete.
+
+In 1994, Malliaros and Neill began planning to start their own insurance agency, ProTech. They resigned from BAI and commenced business the next day. ProTech obtained agency appointments with four insurers, also represented by BAI. After resigning, Malliaros and Neill faced a lawsuit from BAI seeking to enforce the covenants not to compete, among other claims. Eventually, the parties reached a settlement, rescinding the Shareholders' Agreement. As part of the settlement, claims were dismissed without prejudice, and Baty and BAI released Malliaros, Neill, and ProTech from any claims relating to non-compete and non-solicitation obligations.
+
+Despite the settlement agreement, Baty and BAI filed a second lawsuit against Malliaros, Neill, ProTech, and four insurance companies (Aetna, Hartford, AMS, and Fidelity). BAI alleged breaches of fiduciary duty and accused the insurance companies of tortius interference with existing contracts, prospective business relationships, inducing breaches of fiduciary duty, and civil conspiracy. The trial court granted summary judgment in favor of all appellees, leading to this appeal.
+
+The appellate court had to determine whether the settlement agreement effectively released the tort claims and whether the insurance companies lawfully granted agency appointments to Malliaros, Neill, and ProTech.
+
+Verdict:
+The trial court's judgment of dismissing BAI's tort claims against Malliaros, Neill, and ProTech was reversed, as it's ruled that the Settlement and Rescission Agreement did not release these tort claims due to the absence of language expressly releasing them. It will be predicted that the court will find that specific claims not identified in the settlement agreement were not intended to be included and thus were not extinguished.
+
+The trial court's summary judgment in favor of Hartford on BAI's interference with prospective business relationships will be reversed. Based on the Texas Supreme Court's ruling in Sturges, the verdict will focus on the requirement that the plaintiff show the defendant's conduct was independently tortious, absent evidence of Hartford's intentional and unlawful interference.
+
+However, the trial court's judgment in favor of Aetna, AMS, and Fidelity concerning BAI's claim for tortious interference with existing contracts and prospective business relationships will be affirmed. It will be reasoned that these insurance companies were performing acts they were contractually obliged to do by granting agency appointments and therefore were legally justified, emphasizing that entering into a contract does not equate to inducing or intentionally causing breach or interference.
+
+Lastly, BAI's civil conspiracy claims will most likely not succeed against the insurance companies because conspiracy is a derivative tort requiring an underlying tort for liability. Since the trial court granted summary judgment for most of the underlying torts, there is no basis for conspiracy, leading to affirmation of these judgments.
+
+Therefore, while the judgment against the employees will be reversed and remanded, the judgment against the insurance companies with respect to tortious interference and civil conspiracy will likely be affirmed, barring a successful appeal regarding Hartford's interference with prospective business relationships.

@@ -1,0 +1,19 @@
+Background:
+Defendant employer Owens-Corning Fiberglas Corporation was taken to court by 18 plaintiff employees and surviving spouses who claimed damages for personal injuries, wrongful death, and loss of consortium due to long-term exposure to asbestos-containing products manufactured at Owens-Corning's plant. These individuals had alleged injuries from the exposure to asbestos during their employment with Owens-Corning.
+
+The case was consolidated from over ninety-six asbestos personal injury cases to eighteen by the time of the trial. Of the 18, twelve employees had alleged "bystander exposure" to Kaylo, an Owens-Corning product, while six spouses claimed loss of consortium due to their partners' illnesses. Two workers had died by the time of the trial: one from asbestos-related lung cancer and another from a condition unrelated to asbestos. Notably, settlements for the wrongful death claims were reached early in the proceedings.
+
+Owens-Corning contested the consolidation of cases, arguing it would lead to jury confusion and prejudice, thus denying a fair trial, and specifically objected to including the lung cancer death case with noncancer cases. The trial court overruled these objections. The trial lasted over two weeks, with three plaintiffs settling after testimony began. The trial court instructed the jury to disregard testimonies specific to settled cases.
+
+Legal debates included whether Texas procedural law allowing a 10-2 split jury verdict was valid when Alabama substantive law required unanimity and whether the trial court had used incorrect elements of Alabama liability law in jury instructions on common-law negligence. Owens-Corning also contended that the jury's verdict showed actual prejudice due to the consolidation, arguing the jury "pigeon-holed" claimants into four categories of damages arbitrarily.
+
+Verdict:
+The court affirmed the jury verdict in favor of the plaintiff employees and surviving spouses. The trial court was deemed to have acted correctly in consolidating the remaining 18 causes of action because the similarities in each case’s common issues of law and fact outweighed the dissimilarities. Despite variations in plaintiffs' ages, diseases, occupations, types of asbestos exposure, and medical histories, the cases shared a substantial relationship due to exposure to the same product (Kaylo), with most claiming bystander exposure, and the cases being governed by Alabama law.
+
+The court further held that the defendant failed to demonstrate actual prejudice from the consolidation. Specific inconsistencies within the damage awards demonstrated the jury had considered each claimant's actual damages, rather than being confused or arbitrary. Moreover, the inclusion of the lung cancer wrongful death case was not found to have prejudiced the jury given that case's settlement early in the trial, and the jury was expected to follow the court's instruction not to consider testimony specifically related to settled cases.
+
+Additionally, the court rejected the argument that Alabama’s unanimous verdict rule should apply, upholding the Texas law allowing for a non-unanimous (10-2) verdict in this particular case as this was considered a procedural rule, which falls under the jurisdiction of the forum's laws rather than the governing substantive law.
+
+Regarding the jury's instructions, the court found while there was an error in including elements of Alabama Extended Manufacturer's Liability Doctrine (AEMLD) in the negligence instruction, this was a harmless error as the jury found in favor of the plaintiffs on the AEMLD, which was an independent and sufficient ground for recovery.
+
+In conclusion, the appellate court supported the idea that consolidation had been appropriate, any errors on the negligence instruction did not affect the outcome materially, and the application of the split jury verdict was procedural and thus correctly followed Texas law.

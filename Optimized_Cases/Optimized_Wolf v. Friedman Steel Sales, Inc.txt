@@ -1,0 +1,17 @@
+Background:
+The case involves an appellant, the daughter and administratrix of the decedent's estate, who sought review of a decision from the 5th Judicial District Court of Cass County, Texas. The decision in question granted a judgment notwithstanding the verdict (JNOV) for the appellee company in a wrongful death action. 
+
+A foreman working for the appellee company had failed to lock the chains on the rack of a truck, as he planned on loading the truck before it would be driven again. However, before this could happen, the truck was stolen. The unsecured chains subsequently fell off and severed the air brake hose, causing the brakes to lock and stopping the vehicle. The thief abandoned the truck in the middle of the highway at night with no lights on. Tragically, the decedent collided with the truck, resulting in his death.
+
+The jury initially found in favor of the appellant, ruling that the appellee's negligence was the proximate cause of the wrongful death, and awarded damages. However, the appellee company filed for a JNOV, alternatively requesting to disregard the jury's findings. The trial court granted the JNOV and the appellant appealed the decision. 
+
+Verdict:
+The court will affirm the trial court's granting of the JNOV, and conclude that the appellee company is not liable for the injuries caused by the thief's negligent operation of the truck. The reasoning will be that while it was negligence to not secure the chains, it was not foreseeable that the truck would be stolen and then abandoned in a dangerous manner on the highway. The lack of foreseeability means that the unsecured chains could not be considered the direct or immediate cause of the accident.
+
+The court will find that the appellee had no duty to anticipate the vehicle's theft or the negligent and extraordinary manner in which it was subsequently left on the highway. 
+
+Despite the appellant’s contention that the conditions the company's foreman created were dangerous and should have been foreseen, the court will hold that this specific chain of events was unpredictable. No previous evidence of thefts or burglaries will be presented that would have put the appellee on notice of such criminal activity being likely.
+
+Additionally, the court will not find evidence to support a direct causal relation between the negligence of failing to secure the chains and the injuries incurred because the chains would only present a traffic hazard if the truck were driven, and the subsequent abandonment of the truck on the highway was a new and independent cause of the accident. The abandonment on the highway, rather than the unsecured chains, will be recognized as the active cause of the injuries, thus severing any direct legal connection between the appellee's action and the accident. 
+
+Ultimately, the ruling will conclude that the company's actions were not the proximate cause of the accident. The court will decidedly uphold the judgment of the trial court.

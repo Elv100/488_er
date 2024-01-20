@@ -1,0 +1,17 @@
+Background:
+On April 22, 1994, Robin Lee was sexually assaulted by an HIV-positive patient while she was under the care of Wichita Falls State Hospital for a mental disorder that rendered her hypersexual and promiscuous. Subsequent to the assault, Lee filed suit against the Texas Department of Mental Health and Mental Retardation (MHMR), the State of Texas, the hospital, and Don Gilbert, the Commissioner of MHMR. 
+
+Lee's suit alleged a cause of action under section 101.021(2) of the Texas Tort Claims Act, arguing that her injuries were proximately caused by the hospital's failure to lock the doors to her room and to provide locks on the doors between the men's and women's wings of the facility. She claimed these failures constituted both a misuse of tangible property and a defective condition. Additionally, Lee alleged a cause of action under section 321.002 of the Texas Health and Safety Code for violations of the "patient's bill of rights," specifically citing her right to "freedom from mistreatment, abuse, neglect, and exploitation."
+
+The appellants filed a plea to the jurisdiction grounded in sovereign immunity, claiming Lee’s suit should be dismissed as the State had not waived immunity for the claims presented. The plea argued that Lee had not sufficiently alleged a cause of action under the Texas Tort Claims Act as the unlocked hospital doors did not proximately cause her injury, but merely furnished a condition that made the assault possible. Furthermore, they contested that the Texas Legislature had not waived the State's immunity from suit for violations of the patient's bill of rights.
+
+The trial court denied the plea, holding that it "lacks merit." The appellants contended that the trial court's jurisdictional decision was incorrect, given Lee's suit was barred by the sovereign immunity doctrine.
+
+Verdict:
+The judgment will likely be reversed and appellee Lee’s causes of action dismissed due to jurisdictional bars stemming from sovereign immunity. 
+
+It will be reasoned that Robin Lee has not adequately alleged a cause of action under the Tort Claims Act. Although Lee claims the hospital's failure to lock the doors constituted a misuse of tangible property, proximate cause by law demands a close causal relationship between the property's condition or use and the resulting injury. Herein, the unlocked doors permitted the assailant access but did not proximately cause the assault. The hinges of Lee's complaints rest on the failure of hospital staff to protect her, which falls outside the limited waiver of immunity conferred by the Tort Claims Act.
+
+Additionally, it will be predicted that the legislature did not express a clear and unambiguous intent to waive sovereign immunity for patient's bill of rights claims. The relevant statutes defining "treatment facility" and "mental health facility," when incorporated, do not manifest intent to waive immunity by authorizing actions against governmental entities. Furthermore, the legislative history indicates the statute targeted abuse in private, not public, mental health facilities. Therefore, Lee has not stated an actionable claim under the Health and Safety Code that waves sovereign immunity from suit.
+
+In conclusion, due to jurisdictional bars set by sovereign immunity, Lee's actions will be seen as dismissed, as her allegations do not fall within the statutory provisions that would waive such immunity for the State or its entities.

@@ -1,0 +1,24 @@
+Background:
+The deceased employee, Ben Lewis, worked for A. A. Greer as a plastering contractor and was engaged in tasks such as carrying plaster to workmen and moving equipment. On December 15, 1944, while carrying a mortar board up a stairway, he received a blow to the stomach, which caused immediate pain in his lower abdomen. Despite finishing his day's work, he did not return to work after that day and died on January 2, 1945. An autopsy revealed that the cause of death was an appendiceal abscess.
+
+The appellant, Lewis’s widow, initiated a suit to set aside an award of the Industrial Accident Board and to recover compensation benefits, asserting that Lewis's death was causally related to the blow he sustained at work. The jury found that the injury did not "naturally result" in Lewis’s death and that his death was not caused solely by disease. Lewis’s widow contended that the trial court erred by presenting two specific questions to the jury and argued that the jury's verdict was inconsistent.
+
+The appellant's arguments included claims that:
+1. There was an irreconcilable conflict in the jury's findings as the record presented only two alternatives: death caused in part by injury or death caused solely by disease.
+2. The term "naturally resulted" was ill-defined and precluded the notion that there could be more than one cause of death. Furthermore, the given definition required the jury, if answering affirmatively, to state that the accident was the sole proximate cause of death.
+3. The trial court's instruction regarding "injury" or "personal injury" excluded consideration by the jury of death from an injury that may have aggravated or accelerated a pre-existing disease.
+4. The trial court made various errors in deciding what evidence was admissible, particularly in relation to medical records and expert testimony.
+5. Errors in the court striking parts of hypothetical questions addressed to medical experts.
+
+The insurer, appellee, denied that Lewis received accidental injuries within the scope of his employment, claiming that his death resulted from natural causes unrelated to his employment.
+
+Verdict:
+The court will uphold the judgment in favor of the insurer. It will affirm that the claimant's charge of the irreconcilable conflict is refuted by the finding that the injury did not naturally result in death. This finding alone will necessitate a verdict for the insurer, while the finding that Lewis's death was not caused solely by disease does not permit the claimant to recover without a causal connection between the injury and the death. The jury's findings, when considered together, provide a reasonable explanation that does not reflect an irreconcilable conflict.
+
+Furthermore, the court will dismiss the concerns regarding the trial court's charge about the injury naturally resulting in Lewis's death. The court will conclude that the objection to the charge made by the appellant was not preserved for review as it was not raised before the verdict and judgment were delivered.
+
+As for the evidentiary issues pointed out by the appellant, the court will determine that any potential errors were harmless as the jury found Lewis sustained an injury. The details that were excluded or limited during the trial were either cumulative of previously admitted evidence or not demonstrated to have substantially affected the trial's outcome.
+
+Accordingly, the appellant's points of error concerning the jury's findings, the trial court's charge definitions, and decisions on the admissibility of evidence will be overruled. The initial trial court's judgment in favor of the insurer will be affirmed without the necessity for a new trial. The jury's answers and findings will be considered coherent and supportive of the judgment when construed as a whole, despite the efforts of the appellant to illustrate inconsistencies.
+
+In conclusion, for the appellant to have been successful in her appeal, she would have needed to demonstrate that the jury's findings were irreconcilable or that the trial court's errors were sufficiently harmful to warrant a new trial. However, the appeal will fail on both accounts and the insurer will emerge victorious in the case.

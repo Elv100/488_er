@@ -1,0 +1,26 @@
+Background:
+Plaintiff David Ianni, a police officer, filed a lawsuit against Loram Maintenance of Way, Inc. (Loram), after being shot by Roger Arnold Tingle, an off-duty employee of Loram. Ianni claimed that Loram was negligent, alleging the following:
+
+- Loram was aware or should have been aware that Tingle was under the influence of mind-altering drugs and posed a danger.
+- Loram failed to control Tingle or seek help for him despite knowing he was under the influence of drugs.
+- Loram allowed Tingle to leave its workplace while under the influence of drugs.
+- Loram continued to work Tingle when it should have known he was a danger to himself and others.
+- Loram introduced a crew "hooked on drugs" into El Paso as a result of the demanding work environment and failed to manage the situation safely.
+- Loram released Tingle into the public knowing he was under the influence of drugs.
+
+Loram sought summary judgment, claiming that it owed no duty to Ianni, arguing that its conduct was not the proximate cause of Ianni's injuries, and that there was neither negligence nor gross negligence.
+
+Tingle and his crew used methamphetamine to stay awake for their demanding job of operating rail grinding machines for long hours, including travel time to and from their accommodation. Tingle's supervisors were aware of his drug use and his out-of-control behavior, which included a violent incident involving another crew member's wife. Tingle later shot Ianni when Ianni came to the aid of Tingle's wife during a domestic dispute.
+
+Loram's drug policy mandated drug testing for safety reasons, but Soger, one of the supervisors, admitted that he wouldn’t act on reports of drug use without firsthand knowledge, apparently to avoid machine downtime.
+
+The trial court granted summary judgment in favor of Loram.
+
+Verdict:
+Considering the detailed background, it can be predicted that the appellate court will find that Loram's actions did present a genuine issue of material fact concerning negligence and gross negligence, reversing the trial court's summary judgment and remanding it for trial. The evidence suggested that Loram created a dangerous situation by imposing rigorous work conditions and was aware of the widespread drug use among the crew, which was detrimental to their safety and the safety of others. 
+
+Loram’s supervisory personnel, who were in a position to prevent harm, were also using drugs. They were made aware of Tingle’s drug use on several occasions and of the associated risks, but failed to take appropriate action such as drug testing or removing Tingle from the workplace. Their inaction was rooted in a policy of keeping the rail grinding machine operational, indicating a conscious indifference to the safety and welfare of others, including potential bystanders like Ianni.
+
+Furthermore, Loram's supervisors knew that Tingle was incapacitated and yet allowed him to leave the workplace in such a state, did not help Patrice Tingle when she wanted to leave due to fear of her husband, and took no action after a violent incident involving another non-employee. Their conduct suggests that they had actual, subjective awareness of the risk yet proceeded with conscious indifference.
+
+In conclusion, the appellate court is likely to find that Ianni presented sufficient evidence raising genuine issues of material fact regarding Loram's negligence and gross negligence. The conduct of Loram's supervisory personnel falls within the scope of a managerial capacity, involving an extreme degree of risk and showing actual awareness of the danger while being indifferent. This satisfies the Moriel test and thereby opens up the possibility for Ianni not only to pursue compensatory damages but also exemplary damages due to gross negligence. The case will be remanded for a full trial to examine these issues in detail.

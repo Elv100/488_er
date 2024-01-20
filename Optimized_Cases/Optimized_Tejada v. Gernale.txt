@@ -1,0 +1,19 @@
+Background:
+Ronnie Tejada was incarcerated in Jefferson County Jail from November 2004 to October 2005, during which NaphCare, Inc. administered medical care for inmates under contract with the county. NaphCare hired Dr. Virgilio Gernale to provide physician services.
+
+On intake, Tejada reported a personal history of diabetes but no current problems or medication for the condition. Throughout his incarceration, he presented several health complaints, including pain in various parts of his body and deteriorating vision, but he did not specifically complain about diabetes-related issues. Still, Gernale, who was aware of Tejada's diabetes history, did not perform a blood sugar test.
+
+In July 2005, Gernale conducted a chart review and noted the inability to find a neurosurgeon for Tejada's head pains due to his inmate status. Gernale ordered that Tejada should be sent to the emergency room if an emergency situation arose. By October 2005, Tejada's condition had significantly worsened, leading him to the emergency room with a blood sugar level of 460 mg/dL. He was diagnosed with severe hyperglycemia, dehydration, and malnutrition. Within a month, both of Tejada's legs were amputated below the knees.
+
+The Tejadas filed a medical malpractice lawsuit against Gernale, alleging that his failure to test for, treat, or follow up on Tejada's diabetes caused the injuries. They argued they filed within the applicable limitations period, specifying July 12, 2005, as the date of Gernale's malpractice when he reviewed Tejada's chart and failed to order a blood sugar test or ensure proper follow-up. 
+
+To support their case, the Tejadas provided expert testimony from endocrinologist Philip Raskin, who stated that Gernale neglected the standard of care by not testing Tejada's blood sugar levels, leading to the injuries. Despite this, the trial court awarded summary judgment to Gernale, potentially based on statute of limitations and res judicata related to a previous federal case against other defendants, where Gernale was not added as a defendant.
+
+Verdict:
+The appellate court will likely reverse the summary judgment of the trial court and remand the case for further proceedings. The reversal will be based on determining that the limitations period has not run out as the suit alleges acts of medical negligence by Gernale within the limitations period, notably the July 12 chart review being a clearly ascertainable date of malpractice.
+
+The court will also find that res judicata is not applicable in this case, as Gernale was neither a party to the prior federal case nor in privity with a party. There's insufficient evidence that NaphCare, which was involved in the federal action, was acting in a representative capacity or that the federal court viewed NaphCare as protecting Gernale's interests. Therefore, Gernale's contention that NaphCare adequately represented his interests in the federal lawsuit and that privity exists will be rejected.
+
+Lastly, the appellate court will identify a factual issue concerning causation. Expert testimony from Raskin will be considered sufficient to raise a genuine issue of material fact regarding whether Gernale's alleged negligence proximately caused Tejada's injuries. The expert's opinion will be found to satisfy the requirement of demonstrating that Gernale's failure to test, evaluate, and treat Tejada's diabetes was a substantial factor in causing the injuries sustained, leading to his bilateral leg amputations.
+
+Thus, the appellate court will point out that Gernale has failed to show that his affirmative defenses conclusively bar the Tejadas' claims, and since some evidence suggests Gernale's negligence resulted in Tejada's injuries, the trial court's granting of summary judgment will be considered premature and will be reversed.

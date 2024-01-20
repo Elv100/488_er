@@ -1,0 +1,19 @@
+Background:
+A cotton farmer in Galveston, Texas, purchased a product from a druggist intended to destroy cotton worms. Unbeknownst to both parties, the druggist mistakenly supplied the farmer with the wrong product—chrome green instead of Paris green. The farmer used the incorrect product on his crops, expecting it to protect his cotton from the cotton worm. When the product failed to eradicate the worms, the farmer's entire cotton crop was destroyed. Arguing that the loss was due to a breach of implied warranty, the farmer sought consequential damages against the druggist for the entirety of the crop loss. 
+
+The druggist acknowledged that he was responsible for providing the farmer with the wrong product, but contended that his liability should be limited to the difference in value between the product sold (Paris green) and the product delivered (chrome green), not for the consequential damages of the entire crop loss. The lower court supported the druggist's argument by sustaining general and special demurrers, effectively dismissing the farmer's claim for consequential damages.
+
+The farmer appealed, asserting that there was indeed a breach of an implied contract, entitling him to repudiate the purchase due to non-conformity. The farmer also claimed that this breach of contract should be seen as the proximate cause of his crop loss. However, there was no privity of contract for the portion of the crop he did not own, and therefore he could not recover for loss of that portion of the crop.
+
+Verdict:
+Given the detailed circumstances, the higher court will likely find that the druggist’s mistake was indeed a breach of an implied contract and that the mistake directly led to the destruction of the farmer's cotton crop. As there was an expectation backed by the implied contract that the supplied product was indeed Paris green, necessary to prevent destruction from cotton worms, the failure to supply the contracted chemical is at the heart of the issue. 
+
+Despite the druggist's lack of fraudulent intent, the farmer relied on the delivery of the specific product to avoid known, natural, and predictable damage from cotton worms, so the breach should be deemed the proximate cause for the crop's destruction. The court will likely reason that the consequences of this breach, like the loss of the crop, should have been foreseeable to the druggist, given the clear purpose for the use of the Paris green. 
+
+The court will probably elaborate that the damages recoverable by the farmer will include the actual value of the loss sustained, specifically, the worth of the crop as it stood prior to destruction, plus costs incurred from using the ineffective product, and any other expenses directly related to the breach. 
+
+However, an important caveat will be that the farmer’s damages may be limited if it is found that, through due diligence, he could have prevented or lessened the loss. For example, if the farmer, after recognizing the product's ineffectiveness, could have sourced the correct Paris green in time to save part of the crop, damages awarded may be reduced accordingly.
+
+Additionally, since the farmer initially only owned half of the crop, his ability to recover damages is limited to his specific interest in the crop at the time of the destruction. Any subsequent arrangement he made with the co-owners for purchase or liens for his advances would not retroactively entitle him to damages for their portion of the crop. If it is found that he had a legitimate lien on the other half to secure advances, then he may be entitled to recover damages to the extent necessary to satisfy that lien, but no more.
+
+Given these considerations, the higher court will likely reverse the lower court's judgment and remand the case, instructing the lower court to apply these principles during a new trial.

@@ -1,0 +1,23 @@
+Background:
+
+The case involved appellant parents who brought a wrongful death and survival action against the City of Brownsville following the suicide of their son, Ricardo Serna Alvarado, while he was in the city jail. On November 10, 1988, Ricardo, a 19-year-old high school student, committed suicide by hanging himself with a jail-issued blanket after being arrested for driving while intoxicated. Earlier that day, he had been agitated due to romantic rejection.
+
+Officer Jose Angel Rodriguez, who arrested Ricardo after a collision, testified that Ricardo did not appear suicidal. Jailers Ignacio "Nacho" Perez and Javier Elizondo provided conflicting testimony about Ricardo's state and the level of intoxication. Jail policy required cell checks every 20 minutes, with more frequent checks for at-risk inmates, yet on the night of Ricardo's death, the jailers failed to adhere to this policy. Instead, they prioritized booking procedures over cell checks, which led to a delayed discovery of Ricardo's body. Neither jailer administered CPR while waiting for paramedics.
+
+The only theory of negligence submitted to the jury was the breach of the city's self-imposed duty to perform scheduled twenty-minute cell checks, as per the Jail Procedures Manual. However, the jury found that the City was not negligent and that Ricardo's own actions were the proximate cause of his death.
+
+During trial, the appellant parents had several theories of liability and related evidence excluded by the trial court, based on the Texas Tort Claims Act (TTCA), which the parents claimed was error. They argued that the rejected evidence involved the implementation of city policies such as screening for suicidal inmates, inadequate training, and the failure to administer CPR, rather than the formulation of the policies protected by the TTCA.
+
+The appellant parents raised multiple points of error regarding the jury's verdict, the trial court's submission of the charge, the exclusion of certain evidence, and claims that the evidence excluded under the TTCA did not involve the condition or use of tangible property or fall within the discretionary or police protection exemptions.
+
+Verdict:
+
+The court will reverse and remand the case for a new trial. The reasoning will be threefold, focusing on the errors in the judge's charge to the jury, the exclusion of relevant evidence, and the insufficiency of evidence to support the jury's verdict.
+
+Firstly, the jury charge on the suicide defense will be determined to be improper, as under Texas law, Section 93.001 of the Texas Civil Practices and Remedies Code, a plaintiff's suicide cannot be used as a defense if the suicide was caused in whole or in part by a defendant's breach of legal duty. The submission of question two regarding Ricardo's negligence or intentional conduct causing his own death will be deemed confusing and misleading, as it turned a necessary fact for the appellants to prove (suicide) into a comparative negligence issue.
+
+Secondly, the exclusion of evidence under the exceptions to the waiver of governmental immunity provided by the TTCA will be deemed as reversible error. The information pertaining to the city's failure to train jailers for suicide prevention, their inadequate screening of potentially suicidal inmates, the failure to administer CPR, and the lack of placement of video cameras in the detention areas of the jail will be seen as relevant to the implementation of city policy. This evidence was essential to the appellant's case, and its exclusion was therefore harmful and likely affected the trial outcome.
+
+Lastly, there will be a consideration of whether the evidence excluded under the discretionary acts or police protection exemptions pertains to policy implementation. It will be found that the excluded testimony and documents were related to the implementation of policy rather than to policy formulation. Excluding this evidence was harmful and probably caused the rendition of an improper judgment because it prevented the jury from considering the full scope of the City's alleged negligence concerning the death of Ricardo Alvarado.
+
+Overall, the combination of these errors will lead to a decision that a reversal is warranted to ensure a fair trial, and the court will remand the case for a new trial, where the excluded evidence will be expected to be admitted.

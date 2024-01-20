@@ -1,0 +1,17 @@
+Background:
+The case involves an appeal by a railroad employer against a judgment awarded to the appellees, the family of a deceased employee—an engineer—who died when the train he was operating derailed. The family claimed that the derailment was due to the negligent construction of a drainage culvert or negligent maintenance of the railroad tracks, which included the use of rotted ties as supports. Key facts include:
+
+- The railroad's regulations stated that if an engineer anticipated danger ahead on the track, he should stop the train and examine the track.
+- Before the incident, the employee was warned that a bridge looked dangerous.
+- A culvert built by the railroad failed to adequately drain heavy rainfall off the tracks.
+- At the point of derailment, the ties supporting the track gave way, causing the derailment and the employee's death.
+- The jury found in favor of the appellees and awarded judgment, which the employer appealed.
+- The appeal brought up whether the heavy rainfall was an act of God and whether the railroad's regulations could render the employee's actions as contributory negligence.
+- Other facts pertinent to the appeal included testimony about the condition of the track and ties, the specifics of the employee's income and family support, and the admissibility of certain evidence at trial.
+
+Verdict:
+Based upon these facts, the court will affirm the judgment rendered in favor of the appellees. The verdict will explain that the evidence supported the finding of negligent construction of the culvert or negligent maintenance of the track due to rotted ties. It will state that even if the heavy rainfall was considered an act of God, the employer's concurrent negligence still rendered it liable for the employee's death. The verdict will further clarify that the regulations requiring the exercise of the employee’s judgment meant that his actions did not constitute contributory negligence as a matter of law; thus, the issue of contributory negligence was rightly submitted to the jury.
+
+The court will also detail that the railroad regulations did not remove the responsibility of the employer to maintain a safe working environment and that the regulation itself called for the employer's action during heavy storms. Furthermore, the court will explain that the employee did not assume the risk of negligent construction or maintenance as he had the right to assume the employer had complied with its legal duty. Pieces of evidence, such as the rotten ties on the track and the railroad’s own safety rules found on the deceased, bolster the case against the employer.
+
+Additionally, the verdict will likely elaborate on the reasoning for rejecting the employer's objections concerning procedural rulings, such as the sufficiency of evidence, the amount of damages awarded, the qualifications of witnesses, and the admissibility of particular pieces of evidence. The court's deliberation will stress that the employee was not required to foresee the danger that the employer, by its negligent maintenance, should have anticipated and mitigated. Thus, the prediction would be that the judgment in favor of the appellees will stand, with all of the employer's assignments of error being overruled, resulting in the affirmation of the lower court's decision.

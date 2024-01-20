@@ -1,0 +1,29 @@
+Background:
+In August 2014, Robert W. Lambert and Linda C. Lambert purchased approximately 125 acres of ranch land in San Saba County (the Property) with the intention of making it their country home. They planned to clear various trees, including dead post oak and live oak trees resulting from a severe drought in 2011, and to eradicate cactus growth on the Property.
+
+In December 2014, Jim Bob Armes cleared cedar and mesquite trees from the Property. Armes suggested using a method other than a tractor and blade to remove the cactus, which would create large piles of dirt and dead cactus. He recommended contacting Theodore Reese Kerr, Jr., who could potentially kill the cactus using an herbicide.
+
+Robert Lambert contacted Kerr, and they discussed the work and fees on December 15, 2014. Kerr stated he would spray the cactus with an herbicide called Picloram 22K, assuring Lambert that it would not harm the oak trees. Spraying began the next day and continued until the first week of February 2015.
+
+Gary Jennings, who owned adjoining land, informed Lambert in May 2015 that the oak trees on the Property appeared to be dying. Jennings had noted that trees on his and other nearby properties looked healthier in comparison. Lambert then contacted Kerr regarding the apparently damaged trees. Kerr maintained his previous assertion that Picloram 22K, which he had sprayed, would not harm oak trees.
+
+The Lamberts hired arborist Michael J. Walterscheidt to assess their trees. He concluded that the oak trees were dying and, by spring 2016, he and Lambert tagged over 1,000 oak trees on the Property as either dead or unlikely to survive, attributing their condition to the herbicide application.
+
+In October 2016, the Lamberts sued Kerr and Cowpuncher Investments, LLC, d/b/a Cowpuncher Services (Cowpuncher), alleging violations of the Deceptive Trade Practices-Consumer Protection Act (DTPA), fraud, negligence, and negligent misrepresentation. They claimed Kerr, individually and as an agent for Cowpuncher, misrepresented that the primary chemical used to kill the cactus, Picloram, would not harm the trees, which the Lamberts contended they relied upon when hiring Kerr and paying him $23,400. Despite these assurances, they alleged that the herbicide "proved to be lethal to hundreds of trees."
+
+After a bench trial, the trial court awarded the Lamberts $151,950 in damages and additional amounts for attorneys' fees, conditional appellate attorneys' fees, and pre-and post-judgment interest. Kerr and Cowpuncher appealed, challenging the legal sufficiency of the evidence supporting several trial court findings of fact and conclusions of law.
+
+Verdict:
+The trial court's judgment will be affirmed based on the collective testimony and evidence presented during the trial.
+
+Firstly, the legal sufficiency of findings related to reliance was confirmed. Robert Lambert's testimony that he would not have hired Kerr had he been informed of the potential risk of herbicide harm to trees is considered credible evidence supporting the trial court's finding on reliance. Considering the consumer's requirement to show detrimental reliance on the defendant's deceptive act under DTPA section 17.50(a)(1)(B), Lambert's testimony demonstrates such reliance.
+
+Next, in addressing sub-issues related to causation, the testimony of arborist Walterscheidt and landowner Jennings provided substantial support for the causation findings. Walterscheidt, qualified in horticulture and plant pathology, directly attributed the death of trees on the Property to the herbicide application. Furthermore, Jennings testified about the correlation between dying trees and sprayed cacti, suggesting the herbicide's role. Despite contrary claims by Zane Willard, a manufacturer's rep, and Troy Ruffin, Picloram 22K seller, that Picloram could not harm trees, the trial court as the factfinder was entitled to make credibility determinations and rely on expert testimony that supported the injury to the trees.
+
+Regarding Kerr's knowledge, the contributing piece of evidence arose from Begnaud's testimony that Kerr acknowledged Picloram could cause injury to trees during a 2016 discussion. Kerr, a licensed commercial applicator, was legally required to be familiar with the product's label, which contains warnings about the potential for Picloram to "control" trees, including oak trees, indicating a possibility of harm.
+
+For additional damages, the testimony regarding Kerr's knowledge substantiates the trial court's award of "additional damages" under the DTPA, permitted when a defendant has committed a violation "knowingly."
+
+Lastly, the court did not regard the $9,450 compensation for dead trees' removal as a "double recovery" but as a separate, reasonable expense incurred due to Kerr and Cowpuncher's DTPA violations.
+
+Upon this detailed evaluation, the appellate court predicted that each of the concerns raised by Kerr and Cowpuncher will be overruled, and the trial court's judgment will be affirmed in totality. The evidence was legally sufficient to support the verdict. Kerr and Cowpuncher's misrepresentations about Picloram were identified as the injury's producing cause, justifying the damages awarded to the Lamberts.

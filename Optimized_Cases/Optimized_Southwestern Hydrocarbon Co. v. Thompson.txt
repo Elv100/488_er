@@ -1,0 +1,31 @@
+Background:
+The case involves a plaintiff employee who suffered personal injuries while cleaning oil that had been negligently sprayed on his employer's equipment. The plaintiff was cleaning the equipment with gasoline when a fire ignited, causing him severe burns. The trial court conducted a jury trial, which resulted in a verdict in favor of the plaintiff. The employer appealed the decision, raising several objections:
+
+1. Insufficient evidence to support the application of the "rescue doctrine" relied on by the plaintiff;
+2. The claim that the plaintiff voluntarily encountered a known risk;
+3. Allegations that the plaintiff was guilty of contributory negligence as a matter of law;
+4. The argument that the plaintiff's conduct was a new and intervening cause;
+5. The contention that the employer's conduct was not a proximate cause as a matter of law.
+
+The plaintiff was a production superintendent for an oil company and was responsible for various equipment pieces, which the jury found were negligently sprayed by the defendant with slick and flammable crude oil. This created a dangerous condition in terms of both slickness and a fire hazard.
+
+There was evidence that approximately five barrels of oil were left on the property, covering an area of 30 feet by 15 feet and sprayed on various pieces of critical equipment. Witnesses frequented the properties, some on a daily basis. The plaintiff discussed the cleanup with the defendant’s employee soon after the oil was spread but did not agree on any action, and conditions the following day were not conducive to cleaning. When the defendant didn't clean up the oil by the third day, the plaintiff started the cleaning himself using white gasoline, a method considered standard in the oil field for its effectiveness.
+
+During the cleaning process, after hours of work with the gasoline, the plaintiff suddenly caught fire and sustained severe burns. The actual cause of ignition was not clear. One suggested possibility was a spark from a ring on the plaintiff’s finger or the gasoline can.
+
+Based on the facts, the jury found that the defendant's negligent act, the spraying of oil, proximately caused the plaintiff's injuries. Additionally, the jury found that the plaintiff did not act with negligence in cleaning with gasoline and did not voluntarily expose himself to the known dangers of using gasoline.
+
+Verdict:
+The appellate court will affirm the decision of the trial court by analyzing the key issues identified during the appeal.
+
+Regarding the "rescue doctrine," the court will resolve that it was not necessary to assess its applicability solely to the protection of property, as the evidence also supported a finding of a genuine threat to personal safety—as strong as the threat to property. This determination will be based on the jury's findings regarding the hazardous condition created by the employer.
+
+On the issue of whether the plaintiff voluntarily encountered a known risk, the court will hold that the plaintiff's acknowledgment of the dangers of using gasoline was similar to everyday risks taken by reasonable people, such as refueling a car.
+
+The court may further clarify that knowing the dangers does not equate to voluntarily encountering them in a legal sense. The plaintiff's actions in taking precautions—such as checking for coolness and cutting off all nearby flames—demonstrate an attempt to alleviate the threat without being reckless. The significance of this will be that the court acknowledges the concept of "free volition" and "intelligent choice," thereby upholding the jury's finding that the plaintiff did not voluntarily expose himself to the danger.
+
+The appellate court will reject the employer's contention that the plaintiff's decision was not based on urgency or imminent danger. They will assert that this factor is not decisive in determining whether the plaintiff's actions were justified under the circumstances. Instead, the court will place emphasis on whether the plaintiff's reaction to the situation was that of an ordinarily prudent person acting to alleviate a genuine threat.
+
+Finally, the court will hold that the issue of whether the plaintiff's methods and efforts to avert the danger created by the employer were reasonable was a question rightly posed to the jury. It will be determined that the jury's conclusion—that the plaintiff's actions were not negligent and did not constitute a new, independent, and intervening cause—was correct.
+
+In conclusion, the appellate court will affirm the trial court's verdict, stating that the jury appropriately evaluated the evidence and plaintiff's actions. There was no reversible error in their determination, and the jury's findings regarding negligence and contributory negligence were supported by the evidence. The court will not accept that any of the points raised by the appellant (employer) merit a different outcome.

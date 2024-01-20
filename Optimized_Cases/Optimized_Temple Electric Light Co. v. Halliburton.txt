@@ -1,0 +1,17 @@
+Background:
+An electric company (appellant) sought to appeal a trial court decision favoring a widow (appellee) in her suit to recover damages for the wrongful death of her husband. The husband died while attempting to cut a telephone wire that was heavily charged with electricity due to contact with an electric wire from the appellant company. The telephone wire was sparking at the time, and the husband had received a mild shock when he tried to use the phone earlier. Before attempting to cut the wire, the husband reassured his wife that there was no danger, not knowing that the electric wire had made contact with the telephone wire. The family's home had no electric service, and the husband had no experience with electricity. He was a barber by profession.
+
+The widow's claim against the electric company cited negligence in the maintenance of dangerous, insufficiently insulated wires, which sagged and fell across the telephone company's wires, charging them with a high-voltage current. The electric company defended itself with a general denial and alleged contributory negligence on the part of the deceased. The electric company also attempted to bring the telephone company into the lawsuit, claiming that it was their negligence that primarily caused the accident.
+
+During the trial, the electric company requested a continuance to make the telephone company a defendant, which was denied as it would cause undue delay. A motion to direct a verdict was also denied because evidence suggested potential negligence in how the electric company installed and maintained its wires. Matters of contributory negligence and assumed risk argued by the electric company were also viewed as issues of fact for the jury to decide.
+
+Verdict:
+The appellate court affirmed the trial court's judgment, implying that while the electric company argued that a directed verdict should have been given due to lack of evidence showing negligence or because of the deceased's contributory negligence, the evidence did show potential negligence in the proximity of the electric and telephone wires and how securely they were fastened.
+
+As for contributory negligence, the court would likely conclude that this was not a matter of law for the court to decide because it was unclear whether the husband knew of the danger he was in when attempting to cut the wire. Given the perception of a fire hazard and his attempt to protect his property, as well as his lack of expertise in electricity, a jury should determine if his actions constituted contributory negligence.
+
+The court would probably find no cause to admit the telephone company into the suit, as the electric company did not demonstrate diligence in doing so before the trial, and inclusion at that point would have delayed proceedings unfairly to the plaintiff.
+
+The request for special charges by the electric company, such as on assumed risk or contributory negligence, would likely be deemed unnecessary or incorrect given the overall evidence and the established legal principles being correctly applied by the trial court.
+
+Given the circumstances—especially the utility company's failure to act on the danger presented by their wires and the jury's role in determining contributory negligence—the appellate court would predictably affirm the lower court's decision to award damages to the widow for her husband's death.
