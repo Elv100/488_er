@@ -1342,93 +1342,122 @@ Regarding the no-evidence summary judgment for negligence and premises liability
 
 However, appellants failed to provide substantive evidence to raise a genuine issue of material fact regarding Weekley's actual, subjective awareness of risk—a required element for a gross negligence claim. Therefore, the trial court was correct in denying the motion for reconsideration and new trial in relation to the gross negligence claim.
 
-Ultimately, the appellate court affirmed the trial court’s verdict on the gross negligence claim, reversed the verdict on the negligence and premises liability claims, and remanded those parts back to the trial court for further proceedings consistent with the appellate court's opinion.","To analyze the proximate cause and liability issues in this case, several legal principles and specific facts need to be carefully dissected. Here’s a structured analysis:
+Ultimately, the appellate court affirmed the trial court’s verdict on the gross negligence claim, reversed the verdict on the negligence and premises liability claims, and remanded those parts back to the trial court for further proceedings consistent with the appellate court's opinion.","To analyze this case using legal reasoning, let's break it down step by step, focusing on the relevant legal principles and the facts provided:
 
-### 1. **Chapter 95 of the Texas Civil Practice and Remedies Code:**
-Chapter 95 provides that a property owner is not liable for personal injury, death, or property damage to a contractor, subcontractor, or an employee of a contractor who constructs, repairs, renovates, or modifies an improvement to real property unless:
-  - The property owner exercises or retains some control over the manner in which the work is performed (beyond the right to order the work to start or stop or to inspect progress), and
-  - The property owner had actual knowledge of the danger or condition resulting in the injury and failed to adequately warn of it.
+### 1. Identification of Legal Claims
+The appellants filed claims for:
+- Negligence
+- Gross negligence
+- Premises liability
 
-### 2. **Control Over the Manner of Work:**
-- **Appellants' Argument:**
-  The appellants argued that Weekley Homes' representative, Mr. Holmes, directed the workers to move the scaffolding during the rain, evidencing control over the work conditions.
-  
-- **Weekley's Argument:**
-  Weekley contended that they did not control how the work was performed, which falls under a critical basis for applying Chapter 95 immunity.
+### 2. Relevant Legal Framework
+Weekley Homes invoked **Chapter 95 of the Texas Civil Practice and Remedies Code**, which often provides protection to property owners or general contractors from claims related to the construction or repair of properties, especially when the plaintiff is employed by an independent contractor.
 
-### 3. **Knowledge of the Dangerous Condition:**
-- **Appellants' Claim:**
-  Appellants argued that Weekley Homes should have known about the hazardous condition created by the combination of wet scaffolding and temporary energized power lines.
-  
-- **Weekley's Claim:**
-  Weekley asserted that they were unaware of the dangerous condition which directly led to the injury and the fatality.
+Under Chapter 95, a property owner is not liable for injury, death, or property damage to an independent contractor, its employees, or its subcontractors unless:
+1. The property owner exercises or retains control over the manner in which the work is performed, other than the right to order work to start or stop or to inspect progress or receive reports; and
+2. The property owner had actual knowledge of the danger or condition resulting in the personal injury, death, or property damage and fails to adequately warn.
 
-### 4. **Proximate Cause:**
-To establish proximate cause, two key elements must be shown:
-  - **Cause in Fact:** The injury would not have happened ""but for"" the defendant's actions.
-  - **Foreseeability:** The defendant must have been able to anticipate the injury as a result of their actions.
+### 3. Factual Analysis
+Understanding the facts relevant to each clause of Chapter 95 is crucial:
 
-### Analysis:
+#### Clause 1: Control over the Manner of Work Performance
+- **Appellants' Assertion**: Weekley Homes exercised control over the work through instructions given by Weekley’s representative, Mr. Holmes.
+- **Weekley’s Argument**: They did not control the details of the work performed by the independent contractor’s employees.
 
-**Control over the work:**
-- If it can be shown that Mr. Holmes' instructions had a controlling effect over the operational aspects of handling the scaffolding, then Weekley Homes can be seen as having exercised control over the work. This is crucial to determine whether Chapter 95 applies.
+To satisfy the exception in Clause 1, appellants need to show that Weekley had more than general oversight and actually directed the specific methods and procedures of the work (e.g., instructing on the specific manner and safety practices of moving scaffolding).
 
-**Knowledge of the hazard:**
-- The next step is determining Weekley Homes' awareness of the hazard. Understanding that wet conditions could energize surfaces connected to temporary power lines might be a foreseeable risk to someone overseeing the construction site, making Weekley liable if they failed to warn the workers.
+#### Clause 2: Knowledge of Danger and Failure to Warn
+- **Appellants' Assertion**: Weekley knew of the dangerous conditions (wet concrete during a storm) and should not have instructed the workers to move scaffolding.
+- **Weekley’s Argument**: They lacked knowledge of any dangerous condition.
 
-### Summary Judgment Examination:
-- The trial court granted Weekley's motion for summary judgment, meaning they found no genuine issue of material fact regarding Weekley's control over the workers’ activity and their knowledge of the dangerous condition.
+Key evidence here would be whether Weekley was aware of the energized temporary power poles and lines and if they failed to provide adequate warnings about the danger posed by rain on a wet concrete floor.
 
-### Appellants’ Points for Reconsideration:
-- If evidence showed that Weekley’s representative explicitly instructed actions under hazardous conditions, then control might be established.
-- Furthermore, the dangerous condition due to interaction between the wet scaffolding and electrical lines could be argued as foreseeable, laying a ground for negligence.
+### 4. Legal Precedents and Application to Facts
+Precedent cases dealing with the application of Chapter 95 often hinge on whether the property owner did more than provide general oversight and inspections (which do not imply control) and had specific knowledge and failed to warn about a danger.
 
-### Conclusion:
-Given the legal and factual nuances:
-1. **Control:** A factual determination if Mr. Holmes' actions constituted control.
-2. **Knowledge and Foreseeability:** Elucidating whether the condition was known or should have been known.
+### 5. Analysis and Conclusion
+- **Control over Work**: Courts typically require clear evidence that the property owner was involved in directing the specific tasks, not just general oversight. If Weekley’s representative, Mr. Holmes, directed workers on ""how"" to move scaffolding rather than simply ""to move"" it, this could imply control.
+- **Knowledge of Danger**: The plaintiffs would need to establish that Weekley knew about the condition (energized by temporary power poles in the rain) and failed to communicate this risk adequately.
 
-The initial trial court decision takes into account these points under summary judgment, suggesting that it found insufficient evidence on control and knowledge aspects to proceed to trial. For appellants to succeed on appeal, they must effectively demonstrate:
-- Indicative control by Mr. Holmes reflecting Weekley's operational interference.
-- Clear foreseeability and awareness (or constructive awareness) of the hazardous condition by Weekley Homes.
+Given these points, the court would look at evidence such as:
+- Any direct communication or orders from Weekley’s representatives about handling scaffolding in the rain.
+- Testimonies or documentation showing Weekley’s knowledge about the electrical hazards which were not relayed to workers.
 
-Thus, if the appellants can present substantive evidence showing Weekley’s control and cognizance of the risks, an appellate court could potentially reverse the summary judgment, allowing further judicial examination.","The Supreme Court, predicting the future actions of the court, will likely affirm the lower court’s decisions. They will reason that Chapter 95 does apply because the conditions will be met whereby Paniagua and Maravilla were employees of an independent contractor performing construction activities on Weekley’s property. As such, Weekley will not be held liable for the injuries sustained unless it is proven that Weekley exercised control over the work that was performed and had actual knowledge of the danger.
+### Verdict Reasoning
+The trial court likely granted summary judgment assuming lack of substantial evidence from appellants that Weekley controlled work methods or had knowledge and failed to warn about the danger.
 
-The Supreme Court will determine that the control exercised by Weekley, through Holmes telling workers to move scaffolding to avoid bad weather, did not relate to the specific manner of the work, particularly moving equipment during a storm on a wet concrete floor, which is the condition that caused the injury. They will conclude that the evidence only shows new and different work being assigned, not control of how that work was performed.
+From the facts and legal principles:
+1. Without clear evidence showing Weekley's direct control over specific work methods, appellants may struggle to prove control.
+2. Appellants would need robust evidence proving Weekley's actual knowledge of the hazardous condition and a failure to warn.
 
-Furthermore, the court will state that no evidence was provided that indicates Weekley had actual knowledge of the specific danger—the risk associated with moving scaffolding on a wet floor during a storm near energized power poles.
+Unless appellants can produce compelling evidence disproving these key points, the trial court’s summary judgment in favor of Weekley Homes might stand.
 
-In terms of the trial court's denial of leave to designate experts late, the verdict will uphold this decision as not being an abuse of discretion because the appellants did not show any changed circumstances since the initial deadline that would justify a late submission. The Supreme Court will point out that considerable time had passed, and applicants had sufficient opportunities to comply with the deadline but failed to show why additional time for discovery was needed.
+Thus, if we assume appellants could not conclusively show these two elements, the initial motion for summary judgment by Weekley Homes would be upheld, absolving Weekley from liability under Chapter 95.","Given the legal complexities surrounding the case, particularly involving Chapter 95 and its requirements for property owner liability, the appellate court will reverse the trial court's judgment and remand the case for further proceedings. The decision will be based on the existence of genuine issues of material fact regarding both prongs of Chapter 95 — Weekley's exercise or retention of control over the work being performed and Weekley's actual knowledge of a dangerous condition. The evidence could show that Weekley had control over the timing and conditions of appellants' work, and that Weekley's actions or inactions during the storm could be considered negligent. By stating appellants were to continue working or move materials despite adverse weather conditions, Weekley may have retained control over an essential aspect of appellants' work, implicating its liability under Chapter 95.
 
-Thus, all points of error raised by the appellants will be overruled, and the judgment of the trial court will be affirmed.",Agree,Disagree,"Verdict A best matches the reasoning of the Ground Truth Verdict for the following reasons:
+Furthermore, there will also be a conclusion of reversible error by the trial court in denying appellants’ motion for leave to designate experts late due to the oversight in the timing of the trial scheduling. The error will be determined to not have any undue effect on the proceedings, as no discovery had been conducted or a trial set at the time of the motion, meaning the late designation should not unfairly disadvantage the defense.
 
-1. **Summary Judgment on Chapter 95:**
-   - **Ground Truth and Verdict A Alignment:**
-     - Both the Ground Truth Verdict and Verdict A highlight the lack of conclusive proof that the injuries originated from working on the specific site improvement covered by Chapter 95.
-     - Both acknowledge the necessity to evaluate whether Weekley exerted control over the work conditions and whether they had knowledge of the dangerous conditions.
+On these grounds, the court will likely find that the indispensable factual disputes and the erroneously denied opportunity to designate experts necessitate a remand for reevaluation of whether Weekley's actions constituted negligence and whether appellants' injuries were a foreseeable consequence of their work environment under Weekley's oversight.",Disagree,Agree,"### Analysis
 
-2. **Negligence and Premises Liability Claims:**
-   - **Ground Truth and Verdict A Alignment:**
-     - The Ground Truth Verdict finds that appellants presented more than a scintilla of evidence demonstrating Weekley's duty and potential control over working conditions, which Verdict A also elaborates on.
-     - Both discuss the significance of Mr. Holmes's instructions and Longeway’s expert report. Verdict A emphasizes the importance of determining Weekley's operational interference as a critical factor in establishing control and negligence.
+**Ground Truth Verdict Overview:**
+1. **Chapter 95 Protections:**
+   - There's no proof the injuries originated from working on the same improvement as stated under Chapter 95.
+   - Weekley did not show conclusively that Chapter 95 protections apply.
+   - Trial court's summary judgment based on Chapter 95 was erroneous.
 
-3. **Gross Negligence Claim:**
-   - **Ground Truth and Verdict A Alignment:**
-     - The Ground Truth Verdict and Verdict A both agree that there was no adequate evidence to demonstrate Weekley's actual, subjective awareness of risk, which is essential for a gross negligence claim.
+2. **Negligence and Premises Liability:**
+   - Appellants presented more than a scintilla of evidence demonstrating duty and a possible nexus between injuries and Weekley's control over working conditions.
+   - Expert report added crucial facts likely to change the trial outcome.
+   - Denial of appellants’ motion for reconsideration and new trial was an abuse of discretion.
 
-4. **Legal Analysis:**
-   - **Ground Truth and Verdict A Alignment:**
-     - Both provide a detailed analysis of legal principles applicable to Chapter 95 and the necessary conditions for liability, focusing on control over work and knowledge of hazards.
+3. **Gross Negligence:**
+   - Appellants failed to provide enough evidence to show Weekley's actual awareness of risk.
+   - Trial court was correct in denying reconsideration and new trial for gross negligence claim.
 
-5. **Contrasts with Verdict B:**
-   - **Application of Chapter 95:**
-     - Verdict B erroneously asserts the Supreme Court would likely affirm the lower court’s decision based on Chapter 95 without establishing sufficient evidence of Weekley's control and knowledge, a significant point of departure from the Ground Truth Verdict.
-   - **Reevaluation of Evidence:**
-     - Verdict A considers the nuances of evidence like Mr. Holmes's instructions and external expert reports, essential factors also deliberated upon in the Ground Truth Verdict to reverse the negligence and premises liability claims. Verdict B dismisses these as insufficient without a thorough legal reconsideration.
-   - **Appellate Action:**
-     - The Ground Truth Verdict reverses parts of the trial court's decision and remands for further proceedings, echoed in Verdict A's approach of re-examining factual determinations. Verdict B, conversely, suggests a blanket affirmation of the lower court’s decision, which diverges from the Ground Truth’s nuanced stance.
+4. **Outcome:**
+   - Affirming the trial court on gross negligence.
+   - Reversing on negligence and premises liability, remanding for further proceedings.
 
-Overall, Verdict A's reasoning aligns more closely with the detailed legal analysis, evidentiary considerations, and procedural directions outlined in the Ground Truth Verdict, making it the better match."
+**Verdict A Overview:**
+- Focus on the requirements of **Chapter 95**.
+- Weekley's liability based on control over work and knowledge of danger.
+- Emphasizes the need for clear evidence of control and knowledge.
+- Conclusion: If appellants can't show control over work methods and knowledge of danger, summary judgment for Weekley stands.
+
+**Verdict B Overview:**
+- Acknowledges legal complexities under Chapter 95.
+- Indicates issues of material fact on control and knowledge, necessitating a remand.
+- Discusses trial court error in handling expert designation.
+- Conclusion: Reversible error and indispensable factual disputes require a remand.
+
+### Evaluation
+
+**Closer Match to Ground Truth Verdict:**
+
+- **Verdict B** best aligns with the Ground Truth Verdict reasoning for the following reasons:
+
+1. **Recognition of Material Fact Issues:**
+   - Ground Truth Verdict: Acknowledges evidence of Weekley's control of working conditions and existence of factual disputes.
+   - Verdict B: Identifies genuine issues regarding Weekley’s control and knowledge, suggesting a remand.
+
+2. **Handling of Negligence and Premises Liability:**
+   - Ground Truth Verdict: Suggests more than a scintilla of evidence presented by appellants.
+   - Verdict B: Suggests evidence could implicate Weekley's liability under Chapter 95 and suggests a remand to reevaluate Weekley's negligence.
+
+3. **Consideration of Procedural Aspects:**
+   - Ground Truth Verdict: Highlights the trial court's error in denying motion for new trial due to new evidence (expert report).
+   - Verdict B: Discusses trial court error in handling scheduling and allowance of expert witness designation.
+
+4. **Reversal and Remand Approach:**
+   - Ground Truth Verdict: Reversed trial court's decision on negligence and premises liability, remanding for further proceedings.
+   - Verdict B: Indicates need to remand for resolving factual disputes and procedural oversight.
+
+**Overall Reasoning Consistency:**
+
+- **Verdict B** captures the necessity to address factual disputes and procedural errors, which aligns with the decision to remand for further evaluation. It acknowledges the relevance of new evidence and potential oversight by the trial court, reflecting a deeper alignment with the Ground Truth Verdict as described.
+
+### Conclusion
+
+**Verdict B's** reasoning best matches the Ground Truth Verdict due to its recognition of unresolved factual disputes, potential procedural errors by the trial court, and the necessity for further proceedings to ensure a just outcome."
 "William Nami, a railroad employee of Union Pacific Railroad (Union Pacific) for 32 years, contracted the West Nile virus from a mosquito bite and sued his employer under the Federal Employers' Liability Act (""FELA""), alleging that Union Pacific failed to provide a safe workplace. Nami operated a tamping machine in Brazoria County near Sweeny, known for its dense mosquito population, which increased following Hurricane Ike. The area surrounding the tracks where Nami worked was overgrown with weeds, high grass, and sometimes pools of water. Nami was frequently bitten by mosquitoes on the job, even inside the tamper, which had holes and a non-functioning air conditioner. Union Pacific knew about the risk that mosquitoes could carry the West Nile virus and had issued bulletins warning employees about the virus and recommending the use of mosquito repellent, though they did not provide repellent to employees.
 
 Nami became ill with flu-like symptoms, which escalated and were later diagnosed as West Nile virus and encephalitis. His illness resulted in long-term health problems, preventing him from returning to work. Nami did not have prior knowledge of the bulletin or warnings from Union Pacific, was unaware of the risks of the West Nile virus, and did not take measures to prevent mosquito bites. At trial, a jury found both Union Pacific and Nami negligent, attributing 80% of the responsibility to Union Pacific and 20% to Nami, and awarded Nami $752,000 in damages.
@@ -1677,3 +1706,4 @@ The decision on the first point of error would likely form the primary basis for
 
 ### Conclusion:
 **Verdict B** more closely follows the legal reasoning laid out in the Ground Truth Verdict regarding the failure to meet the strict terms of the policy due to the significant contribution of the pre-existing condition to the disability, leading to a likely reversal of the judgment."
+,,,,14,18,
